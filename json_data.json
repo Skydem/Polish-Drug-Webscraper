@@ -1,0 +1,84 @@
+{
+    "0": {
+        "drug_name_pl": "2KC (tabletki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/94546,2KC-tabletki"
+    },
+    "1": {
+        "drug_name_pl": "4 Lacti BABY (krople)",
+        "ingredients_en": {
+            "0": "lactobacillus"
+        },
+        "ingredients_pl": {
+            "0": "lactobacillus"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89599,4-Lacti-BABY-krople"
+    },
+    "2": {
+        "drug_name_pl": "4Flex (proszek)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/75836,4Flex-proszek"
+    },
+    "3": {
+        "drug_name_pl": "4Flex o smaku czarnej porzeczki (proszek)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/92224,4Flex-o-smaku-czarnej-porzeczki-proszek"
+    },
+    "4": {
+        "drug_name_pl": "4Flex PureGel (\u017cel)",
+        "ingredients_en": {
+            "0": "naproxen"
+        },
+        "ingredients_pl": {
+            "0": "naproksen"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99116,4Flex-PureGel-zel"
+    },
+    "5": {
+        "drug_name_pl": "4Flex Silver (proszek)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/92227,4Flex-Silver-proszek"
+    },
+    "6": {
+        "drug_name_pl": "4Flex Sport (proszek)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/92225,4Flex-Sport-proszek"
+    },
+    "7": {
+        "drug_name_pl": "5-Fluorouracil-Ebewe (roztw\u00f3r do wstrzykiwa\u0144 i infuzji)",
+        "ingredients_en": {
+            "0": "fluorouracil"
+        },
+        "ingredients_pl": {
+            "0": "fluorouracyl"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52481,5-Fluorouracil-Ebewe-roztwor-do-wstrzykiwan-i-infuzji"
+    },
+    "8": {
+        "drug_name_pl": "Abacavir + Lamivudine Accord (Iviverz) (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abacavir",
+            "1": "lamivudine"
+        },
+        "ingredients_pl": {
+            "0": "abakawir",
+            "1": "lamiwudyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98350,Abacavir-+-Lamivudine-Accord-Iviverz-tabletki-powlekane"
+    },
+    "9": {
+        "drug_name_pl": "Abasaglar (roztw\u00f3r do wstrzykiwa\u0144)",
+        "ingredients_en": {
+            "0": "insulin glargine"
+        },
+        "ingredients_pl": {
+            "0": "insulina glargine"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88443,Abasaglar-roztwor-do-wstrzykiwan"
+    }
+}
