@@ -15,11 +15,2241 @@
         },
         "url": "https://www.mp.pl/pacjent/leki/lek/89599,4-Lacti-BABY-krople"
     },
+    "10": {
+        "drug_name_pl": "ABE (pďż˝yn na skďż˝rďż˝)",
+        "ingredients_en": {
+            "0": "lactic acid",
+            "1": "salicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas mlekowy",
+            "1": "kwas salicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25852,ABE-plyn-na-skore"
+    },
+    "100": {
+        "drug_name_pl": "Acnex emulsja myjďż˝ca (emulsja myjďż˝ca)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99128,Acnex-emulsja-myjaca-emulsja-myjaca"
+    },
+    "101": {
+        "drug_name_pl": "Acnex kapsuďż˝ki (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/82363,Acnex-kapsulki-kapsulki"
+    },
+    "102": {
+        "drug_name_pl": "Acnex krem (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/70135,Acnex-krem-krem"
+    },
+    "103": {
+        "drug_name_pl": "Acnex ďż˝el punktowy (ďż˝el punktowy)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/70133,Acnex-zel-punktowy-zel-punktowy"
+    },
+    "104": {
+        "drug_name_pl": "Acnosan T (pďż˝yn)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82482,Acnosan-T-plyn"
+    },
+    "105": {
+        "drug_name_pl": "Acodin (tabletki)",
+        "ingredients_en": {
+            "0": "dextromethorphan"
+        },
+        "ingredients_pl": {
+            "0": "dekstrometorfan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101517,Acodin-tabletki"
+    },
+    "106": {
+        "drug_name_pl": "Acodin 150 Junior (syrop)",
+        "ingredients_en": {
+            "0": "dexpanthenol",
+            "1": "dextromethorphan"
+        },
+        "ingredients_pl": {
+            "0": "dekspantenol",
+            "1": "dekstrometorfan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26086,Acodin-150-Junior-syrop"
+    },
+    "107": {
+        "drug_name_pl": "Acodin Duo (syrop)",
+        "ingredients_en": {
+            "0": "dexpanthenol",
+            "1": "dextromethorphan"
+        },
+        "ingredients_pl": {
+            "0": "dekspantenol",
+            "1": "dekstrometorfan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26087,Acodin-Duo-syrop"
+    },
+    "108": {
+        "drug_name_pl": "Actair (tabletki podjďż˝zykowe)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102747,Actair-tabletki-podjezykowe"
+    },
+    "109": {
+        "drug_name_pl": "Actelsar (tabletki)",
+        "ingredients_en": {
+            "0": "telmisartan"
+        },
+        "ingredients_pl": {
+            "0": "telmisartan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/79722,Actelsar-tabletki"
+    },
+    "11": {
+        "drug_name_pl": "Abelcet (koncentrat do sporzďż˝dzania zawiesina do infuzji)",
+        "ingredients_en": {
+            "0": "amphotericin B"
+        },
+        "ingredients_pl": {
+            "0": "amfoterycyna B"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/56826,Abelcet-koncentrat-do-sporzadzania-zawiesina-do-infuzji"
+    },
+    "110": {
+        "drug_name_pl": "Actelsar HCT (tabletki)",
+        "ingredients_en": {
+            "0": "hydrochlorothiazide",
+            "1": "telmisartan"
+        },
+        "ingredients_pl": {
+            "0": "hydrochlorotiazyd",
+            "1": "telmisartan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84192,Actelsar-HCT-tabletki"
+    },
+    "111": {
+        "drug_name_pl": "Act-HiB (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "H. influenzae type b vaccine"
+        },
+        "ingredients_pl": {
+            "0": "szczepionka przeciw H. influenzae typ b"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62582,Act-HiB-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wstrzykiwan"
+    },
+    "112": {
+        "drug_name_pl": "Acti Vita-miner (tabletki)",
+        "ingredients_en": {
+            "0": "minerals",
+            "1": "vitamins"
+        },
+        "ingredients_pl": {
+            "0": "składniki mineralne",
+            "1": "witaminy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/75821,Acti-Vita-miner-tabletki"
+    },
+    "113": {
+        "drug_name_pl": "Acti Vita-miner Prenatal (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "minerals",
+            "1": "vitamins"
+        },
+        "ingredients_pl": {
+            "0": "składniki mineralne",
+            "1": "witaminy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/75826,Acti-Vita-miner-Prenatal-tabletki-powlekane"
+    },
+    "114": {
+        "drug_name_pl": "Acti Vita-miner Prenatal + DHA (kapsuďż˝ki + tabletki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/81030,Acti-Vita-miner-Prenatal-+-DHA-kapsulki-+-tabletki"
+    },
+    "115": {
+        "drug_name_pl": "Acti Vita-miner Senior (draďż˝etki)",
+        "ingredients_en": {
+            "0": "minerals",
+            "1": "vitamins"
+        },
+        "ingredients_pl": {
+            "0": "składniki mineralne",
+            "1": "witaminy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81031,Acti-Vita-miner-Senior-drazetki"
+    },
+    "116": {
+        "drug_name_pl": "Acticoat Flex 3 (opatrunek leczniczy z nanokrystalicznym srebrem)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82432,Acticoat-Flex-3-opatrunek-leczniczy-z-nanokrystalicznym-srebrem"
+    },
+    "117": {
+        "drug_name_pl": "Actifed (syrop)",
+        "ingredients_en": {
+            "0": "dextromethorphan",
+            "1": "pseudoephedrine"
+        },
+        "ingredients_pl": {
+            "0": "dekstrometorfan",
+            "1": "pseudoefedryna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26098,Actifed-syrop"
+    },
+    "118": {
+        "drug_name_pl": "Actiferol Fe (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "iron (iron III pyrophosphate)"
+        },
+        "ingredients_pl": {
+            "0": "żelazo (pirofosforan żelaza III)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/74713,Actiferol-Fe-kapsulki"
+    },
+    "119": {
+        "drug_name_pl": "Actiferol Fe (proszek)",
+        "ingredients_en": {
+            "0": "iron (iron III pyrophosphate)"
+        },
+        "ingredients_pl": {
+            "0": "żelazo (pirofosforan żelaza III)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/74712,Actiferol-Fe-proszek"
+    },
+    "12": {
+        "drug_name_pl": "Abevmy (koncentrat do sporzďż˝dzania roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "bevacizumab"
+        },
+        "ingredients_pl": {
+            "0": "bewacyzumab"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100575,Abevmy-koncentrat-do-sporzadzania-roztworu-do-infuzji"
+    },
+    "120": {
+        "drug_name_pl": "Actiferol Fe Forte (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "Folic acid",
+            "1": "iron (iron III pyrophosphate)"
+        },
+        "ingredients_pl": {
+            "0": "kwas foliowy",
+            "1": "żelazo (pirofosforan żelaza III)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98932,Actiferol-Fe-Forte-kapsulki"
+    },
+    "121": {
+        "drug_name_pl": "Actiferol Fe Krople (krople)",
+        "ingredients_en": {
+            "0": "iron (iron III pyrophosphate)"
+        },
+        "ingredients_pl": {
+            "0": "żelazo (pirofosforan żelaza III)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94456,Actiferol-Fe-Krople-krople"
+    },
+    "122": {
+        "drug_name_pl": "Actiferol Fe Start (proszek)",
+        "ingredients_en": {
+            "0": "iron",
+            "1": "vitamins"
+        },
+        "ingredients_pl": {
+            "0": "żelazo",
+            "1": "witaminy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89101,Actiferol-Fe-Start-proszek"
+    },
+    "123": {
+        "drug_name_pl": "ActiFolin (tabletki)",
+        "ingredients_en": {
+            "0": "Folic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas foliowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89073,ActiFolin-tabletki"
+    },
+    "124": {
+        "drug_name_pl": "Acti-Globin (tabletki)",
+        "ingredients_en": {
+            "0": "minerals",
+            "1": "vitamins"
+        },
+        "ingredients_pl": {
+            "0": "składniki mineralne",
+            "1": "witaminy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/83650,Acti-Globin-tabletki"
+    },
+    "125": {
+        "drug_name_pl": "Actigra (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "sildenafil"
+        },
+        "ingredients_pl": {
+            "0": "sildenafil"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101004,Actigra-tabletki-powlekane"
+    },
+    "126": {
+        "drug_name_pl": "Actigra Forte (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "sildenafil"
+        },
+        "ingredients_pl": {
+            "0": "sildenafil"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102139,Actigra-Forte-tabletki-powlekane"
+    },
+    "127": {
+        "drug_name_pl": "Actilyse 10 (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wlewu)",
+        "ingredients_en": {
+            "0": "alteplase"
+        },
+        "ingredients_pl": {
+            "0": "alteplaza"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26101,Actilyse-10-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wlewu"
+    },
+    "128": {
+        "drug_name_pl": "Actilyse 20 (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wlewu)",
+        "ingredients_en": {
+            "0": "alteplase"
+        },
+        "ingredients_pl": {
+            "0": "alteplaza"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26102,Actilyse-20-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wlewu"
+    },
+    "129": {
+        "drug_name_pl": "Actilyse 50 (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wlewu)",
+        "ingredients_en": {
+            "0": "alteplase"
+        },
+        "ingredients_pl": {
+            "0": "alteplaza"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26103,Actilyse-50-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wlewu"
+    },
+    "13": {
+        "drug_name_pl": "Abilify (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "aripiprazole"
+        },
+        "ingredients_pl": {
+            "0": "arypiprazol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/66814,Abilify-roztwor-do-wstrzykiwan"
+    },
+    "130": {
+        "drug_name_pl": "Actimodan (tabletki)",
+        "ingredients_en": {
+            "0": "modafinil"
+        },
+        "ingredients_pl": {
+            "0": "modafinil"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100548,Actimodan-tabletki"
+    },
+    "131": {
+        "drug_name_pl": "Actisoftin (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/86388,Actisoftin-krem"
+    },
+    "132": {
+        "drug_name_pl": "Actisorb Plus 25 (opatrunek leczniczy)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84237,Actisorb-Plus-25-opatrunek-leczniczy"
+    },
+    "133": {
+        "drug_name_pl": "ACTI-trin (syrop)",
+        "ingredients_en": {
+            "0": "dextromethorphan",
+            "1": "pseudoephedrine"
+        },
+        "ingredients_pl": {
+            "0": "dekstrometorfan",
+            "1": "pseudoefedryna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/57725,ACTI-trin-syrop"
+    },
+    "134": {
+        "drug_name_pl": "Active Flora baby (krople doustne)",
+        "ingredients_en": {
+            "0": "lactobacillus"
+        },
+        "ingredients_pl": {
+            "0": "lactobacillus"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96732,Active-Flora-baby-krople-doustne"
+    },
+    "135": {
+        "drug_name_pl": "Activelle (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "estradiol",
+            "1": "norethisterone (norethisterone acetate)"
+        },
+        "ingredients_pl": {
+            "0": "estradiol",
+            "1": "noretysteron (octan noretysteronu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/49947,Activelle-tabletki-powlekane"
+    },
+    "136": {
+        "drug_name_pl": "Actrapid Penfill (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "human insulin, neutral insulin"
+        },
+        "ingredients_pl": {
+            "0": "insulina ludzka, insulina neutralna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26114,Actrapid-Penfill-roztwor-do-wstrzykiwan"
+    },
+    "137": {
+        "drug_name_pl": "Actusept (aerozol do stos. w jamie ustnej, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "benzydamine"
+        },
+        "ingredients_pl": {
+            "0": "benzydamina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92711,Actusept-aerozol-do-stos.-w-jamie-ustnej.-roztwor"
+    },
+    "138": {
+        "drug_name_pl": "Acurenal (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "quinapril"
+        },
+        "ingredients_pl": {
+            "0": "chinapryl"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81849,Acurenal-tabletki-powlekane"
+    },
+    "139": {
+        "drug_name_pl": "Acutol spray do bezbolesnego usuwania plastrďż˝w (spray)",
+        "ingredients_en": {
+            "0": "silicon"
+        },
+        "ingredients_pl": {
+            "0": "silikon"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101476,Acutol-spray-do-bezbolesnego-usuwania-plastrow-spray"
+    },
+    "14": {
+        "drug_name_pl": "Abilify (tabletki)",
+        "ingredients_en": {
+            "0": "aripiprazole"
+        },
+        "ingredients_pl": {
+            "0": "arypiprazol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101556,Abilify-tabletki"
+    },
+    "140": {
+        "drug_name_pl": "Adablix (tabletki)",
+        "ingredients_en": {
+            "0": "bilastine"
+        },
+        "ingredients_pl": {
+            "0": "bilastyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101974,Adablix-tabletki"
+    },
+    "141": {
+        "drug_name_pl": "Adablok (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "solifenacin (solifenacin succinate)"
+        },
+        "ingredients_pl": {
+            "0": "solifenacyna (bursztynian solifenacyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/95992,Adablok-tabletki-powlekane"
+    },
+    "142": {
+        "drug_name_pl": "Adacel (zaw. do wstrzykiwaďż˝ w ampuďż˝kostrzykawce)",
+        "ingredients_en": {
+            "0": "diphtheria toxoid",
+            "1": "whooping cough vaccine (acellular)"
+        },
+        "ingredients_pl": {
+            "0": "toksoid błoniczy",
+            "1": "szczepionka przeciw krztuścowi (bezkomórkowa)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/72287,Adacel-zaw.-do-wstrzykiwan-w-ampulkostrzykawce"
+    },
+    "143": {
+        "drug_name_pl": "Adacel Polio (zaw. do wstrzykiwaďż˝ w ampuďż˝kostrzykawce)",
+        "ingredients_en": {
+            "0": "diphtheria toxoid",
+            "1": "whooping cough vaccine (acellular)"
+        },
+        "ingredients_pl": {
+            "0": "toksoid błoniczy",
+            "1": "szczepionka przeciw krztuścowi (bezkomórkowa)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98789,Adacel-Polio-zaw.-do-wstrzykiwan-w-ampulkostrzykawce"
+    },
+    "144": {
+        "drug_name_pl": "Adadox (tabletki)",
+        "ingredients_en": {
+            "0": "doxazosin"
+        },
+        "ingredients_pl": {
+            "0": "doksazosyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92093,Adadox-tabletki"
+    },
+    "145": {
+        "drug_name_pl": "Adadut (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {
+            "0": "dutasteride"
+        },
+        "ingredients_pl": {
+            "0": "dutasteryd"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92051,Adadut-kapsulki-miekkie"
+    },
+    "146": {
+        "drug_name_pl": "Adalift (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "tadalafil"
+        },
+        "ingredients_pl": {
+            "0": "tadalafil"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96490,Adalift-tabletki-powlekane"
+    },
+    "147": {
+        "drug_name_pl": "Adaptic (opatrunek leczniczy)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96343,Adaptic-opatrunek-leczniczy"
+    },
+    "148": {
+        "drug_name_pl": "Adaptogeny (pďż˝yn)",
+        "ingredients_en": {
+            "0": "herbal extracts"
+        },
+        "ingredients_pl": {
+            "0": "wyciągi ziołowe"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100704,Adaptogeny-plyn"
+    },
+    "149": {
+        "drug_name_pl": "Adaring (system terapeutyczny dopochwowy)",
+        "ingredients_en": {
+            "0": "ethinylestradiol",
+            "1": "etonogestrel"
+        },
+        "ingredients_pl": {
+            "0": "etynyloestradiol",
+            "1": "etonogestrel"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92621,Adaring-system-terapeutyczny-dopochwowy"
+    },
+    "15": {
+        "drug_name_pl": "Abilify Maintena (proszek i rozpuszczalnik do sporzďż˝dzania zawiesiny do wstrzykiwaďż˝ o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "aripiprazole"
+        },
+        "ingredients_pl": {
+            "0": "arypiprazol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90758,Abilify-Maintena-proszek-i-rozpuszczalnik-do-sporzadzania-zawiesiny-do-wstrzykiwan-o-przedluzonym-uwalnianiu"
+    },
+    "150": {
+        "drug_name_pl": "Adartrel (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "ropinirole"
+        },
+        "ingredients_pl": {
+            "0": "ropinirol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62736,Adartrel-tabletki-powlekane"
+    },
+    "151": {
+        "drug_name_pl": "Adaster (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "finasteride"
+        },
+        "ingredients_pl": {
+            "0": "finasteryd"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91020,Adaster-tabletki-powlekane"
+    },
+    "152": {
+        "drug_name_pl": "Adatam (kapsuďż˝ki o zmodyfikowanym uwalnianiu, twarde)",
+        "ingredients_en": {
+            "0": "tamsulosin (tamsulosin hydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "tamsulozyna (chlorowodorek tamsulozyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90918,Adatam-kapsulki-o-zmodyfikowanym-uwalnianiu.-twarde"
+    },
+    "153": {
+        "drug_name_pl": "Adatam Duo (kapsuďż˝ki twarde)",
+        "ingredients_en": {
+            "0": "dutasteride",
+            "1": "tamsulosin (tamsulosin hydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "dutasteryd",
+            "1": "tamsulozyna (chlorowodorek tamsulozyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98430,Adatam-Duo-kapsulki-twarde"
+    },
+    "154": {
+        "drug_name_pl": "Adatam XR (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "tamsulosin (tamsulosin hydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "tamsulozyna (chlorowodorek tamsulozyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101266,Adatam-XR-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "155": {
+        "drug_name_pl": "Adcetris (proszek do sporzďż˝dzania koncentratu roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "brentuximab vedotin"
+        },
+        "ingredients_pl": {
+            "0": "brentuksymab wedotin"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85972,Adcetris-proszek-do-sporzadzania-koncentratu-roztworu-do-infuzji"
+    },
+    "156": {
+        "drug_name_pl": "Addamel N (koncentrat do sporzďż˝dzania roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "preparation for parenteral nutrition"
+        },
+        "ingredients_pl": {
+            "0": "preparat do żywienia pozajelitowego"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52849,Addamel-N-koncentrat-do-sporzadzania-roztworu-do-infuzji"
+    },
+    "157": {
+        "drug_name_pl": "Addiphos (koncentrat do sporzďż˝dzania roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "potassium dihydrogen phosphate",
+            "1": "potassium (potassium hydroxide)"
+        },
+        "ingredients_pl": {
+            "0": "diwodorofosforan potasu",
+            "1": "potas (wodorotlenek potasu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/51592,Addiphos-koncentrat-do-sporzadzania-roztworu-do-infuzji"
+    },
+    "158": {
+        "drug_name_pl": "Adeksa (tabletki)",
+        "ingredients_en": {
+            "0": "acarbose"
+        },
+        "ingredients_pl": {
+            "0": "akarboza"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/79728,Adeksa-tabletki"
+    },
+    "159": {
+        "drug_name_pl": "Adempas (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "riociguat"
+        },
+        "ingredients_pl": {
+            "0": "riocyguat"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88471,Adempas-tabletki-powlekane"
+    },
+    "16": {
+        "drug_name_pl": "Abiral (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101127,Abiral-tabletki-powlekane"
+    },
+    "160": {
+        "drug_name_pl": "Adenocor (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "adenosine"
+        },
+        "ingredients_pl": {
+            "0": "adenozyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26176,Adenocor-roztwor-do-wstrzykiwan"
+    },
+    "1600": {
+        "drug_name_pl": "Cetaphil EM d/mycia (emulsja)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101201,Cetaphil-EM-d/mycia-emulsja"
+    },
+    "161": {
+        "drug_name_pl": "Adenuric (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "febuxostat"
+        },
+        "ingredients_pl": {
+            "0": "febuksostat"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81929,Adenuric-tabletki-powlekane"
+    },
+    "162": {
+        "drug_name_pl": "Adepend (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "naltrexone"
+        },
+        "ingredients_pl": {
+            "0": "naltrekson"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/75560,Adepend-tabletki-powlekane"
+    },
+    "163": {
+        "drug_name_pl": "A-Derma Cytelium (spray)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99556,A-Derma-Cytelium-spray"
+    },
+    "164": {
+        "drug_name_pl": "Adipine (tabletki)",
+        "ingredients_en": {
+            "0": "amlodipine"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/64217,Adipine-tabletki"
+    },
+    "165": {
+        "drug_name_pl": "Adproctin (kapsuďż˝ki twarde)",
+        "ingredients_en": {
+            "0": "calcium dobesilate"
+        },
+        "ingredients_pl": {
+            "0": "dobesylan wapnia"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98879,Adproctin-kapsulki-twarde"
+    },
+    "166": {
+        "drug_name_pl": "Adrenalina WZF (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "epinephrine"
+        },
+        "ingredients_pl": {
+            "0": "epinefryna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/58398,Adrenalina-WZF-roztwor-do-wstrzykiwan"
+    },
+    "167": {
+        "drug_name_pl": "Adrenalina WZF 0,1% (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "epinephrine"
+        },
+        "ingredients_pl": {
+            "0": "epinefryna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26184,Adrenalina-WZF-0.1-roztwor-do-wstrzykiwan"
+    },
+    "168": {
+        "drug_name_pl": "Adriblastina PFS (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "doxorubicin"
+        },
+        "ingredients_pl": {
+            "0": "doksorubicyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50413,Adriblastina-PFS-roztwor-do-wstrzykiwan"
+    },
+    "169": {
+        "drug_name_pl": "Advagraf (kapsuďż˝ki o przedďż˝uďż˝onym uwalnianiu, twarde)",
+        "ingredients_en": {
+            "0": "tacrolimus"
+        },
+        "ingredients_pl": {
+            "0": "takrolimus"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/69098,Advagraf-kapsulki-o-przedluzonym-uwalnianiu.-twarde"
+    },
+    "17": {
+        "drug_name_pl": "Abirateron Zentiva (tabletki)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101205,Abirateron-Zentiva-tabletki"
+    },
+    "170": {
+        "drug_name_pl": "Advantan (emulsja)",
+        "ingredients_en": {
+            "0": "methylprednisolone (methylprednisolone aceponate)"
+        },
+        "ingredients_pl": {
+            "0": "metyloprednizolon (aceponian metyloprednizolonu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26199,Advantan-emulsja"
+    },
+    "171": {
+        "drug_name_pl": "Advantan (krem)",
+        "ingredients_en": {
+            "0": "methylprednisolone (methylprednisolone aceponate)"
+        },
+        "ingredients_pl": {
+            "0": "metyloprednizolon (aceponian metyloprednizolonu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94901,Advantan-krem"
+    },
+    "172": {
+        "drug_name_pl": "Advantan (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "methylprednisolone (methylprednisolone aceponate)"
+        },
+        "ingredients_pl": {
+            "0": "metyloprednizolon (aceponian metyloprednizolonu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94902,Advantan-masc"
+    },
+    "173": {
+        "drug_name_pl": "Advate (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "factor VIII (recombinant), octocog alfa"
+        },
+        "ingredients_pl": {
+            "0": "czynnik VIII (rekombinowany), oktokog alfa"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/66788,Advate-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wstrzykiwan"
+    },
+    "174": {
+        "drug_name_pl": "Adynovi (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "ruioctocog alfa pegol"
+        },
+        "ingredients_pl": {
+            "0": "rurioctocog alfa pegol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/103531,Adynovi-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wstrzykiwan"
+    },
+    "175": {
+        "drug_name_pl": "Aerius (roztwďż˝r doustny)",
+        "ingredients_en": {
+            "0": "desloratadine"
+        },
+        "ingredients_pl": {
+            "0": "desloratadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/70117,Aerius-roztwor-doustny"
+    },
+    "176": {
+        "drug_name_pl": "Aerius (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "desloratadine"
+        },
+        "ingredients_pl": {
+            "0": "desloratadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/54635,Aerius-tabletki-powlekane"
+    },
+    "177": {
+        "drug_name_pl": "Aerrane (pďż˝yn do anestezji wziewnej)",
+        "ingredients_en": {
+            "0": "isoflurane"
+        },
+        "ingredients_pl": {
+            "0": "izofluran"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55932,Aerrane-plyn-do-anestezji-wziewnej"
+    },
+    "178": {
+        "drug_name_pl": "Aescin (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "aescin"
+        },
+        "ingredients_pl": {
+            "0": "escyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/60130,Aescin-tabletki-powlekane"
+    },
+    "179": {
+        "drug_name_pl": "Aescin (ďż˝el)",
+        "ingredients_en": {
+            "0": "diethylamine salicylate",
+            "1": "aescin"
+        },
+        "ingredients_pl": {
+            "0": "salicylan dietyloaminy",
+            "1": "escyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26219,Aescin-zel"
+    },
+    "18": {
+        "drug_name_pl": "Abiraterone Accord (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102453,Abiraterone-Accord-tabletki-powlekane"
+    },
+    "180": {
+        "drug_name_pl": "Aesculan (maďż˝ďż˝ doodbytnicza)",
+        "ingredients_en": {
+            "0": "esculin",
+            "1": "lidocaine"
+        },
+        "ingredients_pl": {
+            "0": "eskulina",
+            "1": "lidokaina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52855,Aesculan-masc-doodbytnicza"
+    },
+    "181": {
+        "drug_name_pl": "Aethoxysklerol 0,5% (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "lauromacrogol 400 (polidocanol)"
+        },
+        "ingredients_pl": {
+            "0": "lauromakrogol 400 (polidokanol)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55432,Aethoxysklerol-0.5-roztwor-do-wstrzykiwan"
+    },
+    "182": {
+        "drug_name_pl": "Aethoxysklerol 1% (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "lauromacrogol 400 (polidocanol)"
+        },
+        "ingredients_pl": {
+            "0": "lauromakrogol 400 (polidokanol)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26229,Aethoxysklerol-1-roztwor-do-wstrzykiwan"
+    },
+    "183": {
+        "drug_name_pl": "Aethoxysklerol 2% (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "lauromacrogol 400 (polidocanol)"
+        },
+        "ingredients_pl": {
+            "0": "lauromakrogol 400 (polidokanol)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55434,Aethoxysklerol-2-roztwor-do-wstrzykiwan"
+    },
+    "184": {
+        "drug_name_pl": "Aethoxysklerol 3% (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "lauromacrogol 400 (polidocanol)"
+        },
+        "ingredients_pl": {
+            "0": "lauromakrogol 400 (polidokanol)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55435,Aethoxysklerol-3-roztwor-do-wstrzykiwan"
+    },
+    "185": {
+        "drug_name_pl": "Aethylum Chloratum Filofarm (aerozol)",
+        "ingredients_en": {
+            "0": "ethyl chloride"
+        },
+        "ingredients_pl": {
+            "0": "chlorek etylu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26241,Aethylum-Chloratum-Filofarm-aerozol"
+    },
+    "186": {
+        "drug_name_pl": "Afastural (gran. do sporz. roztworu doustnego)",
+        "ingredients_en": {
+            "0": "fosfomycin"
+        },
+        "ingredients_pl": {
+            "0": "fosfomycyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/86040,Afastural-gran.-do-sporz.-roztworu-doustnego"
+    },
+    "187": {
+        "drug_name_pl": "Afenix (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "solifenacin (solifenacin succinate)"
+        },
+        "ingredients_pl": {
+            "0": "solifenacyna (bursztynian solifenacyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/93183,Afenix-tabletki-powlekane"
+    },
+    "188": {
+        "drug_name_pl": "Afinitor (tabletki)",
+        "ingredients_en": {
+            "0": "everolimus"
+        },
+        "ingredients_pl": {
+            "0": "ewerolimus"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/69008,Afinitor-tabletki"
+    },
+    "189": {
+        "drug_name_pl": "Aflavic Max (tabletki)",
+        "ingredients_en": {
+            "0": "diosmin (micronized)"
+        },
+        "ingredients_pl": {
+            "0": "diosmina (zmikronizowana)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/95994,Aflavic-Max-tabletki"
+    },
+    "19": {
+        "drug_name_pl": "Abiraterone G.L. Pharma (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101744,Abiraterone-G.L.-Pharma-tabletki-powlekane"
+    },
+    "190": {
+        "drug_name_pl": "Aflegan (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "ambroxol"
+        },
+        "ingredients_pl": {
+            "0": "ambroksol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26245,Aflegan-roztwor-do-wstrzykiwan"
+    },
+    "191": {
+        "drug_name_pl": "Afloderm (krem)",
+        "ingredients_en": {
+            "0": "alclomethasone"
+        },
+        "ingredients_pl": {
+            "0": "alklometazon"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/59871,Afloderm-krem"
+    },
+    "192": {
+        "drug_name_pl": "Afloderm (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "alclomethasone"
+        },
+        "ingredients_pl": {
+            "0": "alklometazon"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/59869,Afloderm-masc"
+    },
+    "193": {
+        "drug_name_pl": "Afobam (tabletki)",
+        "ingredients_en": {
+            "0": "alprazolam"
+        },
+        "ingredients_pl": {
+            "0": "alprazolam"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/74201,Afobam-tabletki"
+    },
+    "194": {
+        "drug_name_pl": "Afrin ND (aerozol do nosa, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "oxymetazoline"
+        },
+        "ingredients_pl": {
+            "0": "oksymetazolina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81942,Afrin-ND-aerozol-do-nosa.-roztwor"
+    },
+    "195": {
+        "drug_name_pl": "Afronis (pďż˝yn do stosowania na skďż˝rďż˝)",
+        "ingredients_en": {
+            "0": "boric acid",
+            "1": "menthol"
+        },
+        "ingredients_pl": {
+            "0": "kwas borowy",
+            "1": "mentol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52853,Afronis-plyn-do-stosowania-na-skore"
+    },
+    "196": {
+        "drug_name_pl": "Afstyla (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "factor VIII (recombinant), lonoctocog alfa"
+        },
+        "ingredients_pl": {
+            "0": "czynnik VIII (rekombinowany), lonoktokog alfa"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99000,Afstyla-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wstrzykiwan"
+    },
+    "197": {
+        "drug_name_pl": "Aftargent nano (ďż˝el na afty)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/92438,Aftargent-nano-zel-na-afty"
+    },
+    "198": {
+        "drug_name_pl": "Agapurin (tabletki draďż˝owane)",
+        "ingredients_en": {
+            "0": "pentoxifylline"
+        },
+        "ingredients_pl": {
+            "0": "pentoksyfilina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26301,Agapurin-tabletki-drazowane"
+    },
+    "199": {
+        "drug_name_pl": "Agapurin SR 400 (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "pentoxifylline"
+        },
+        "ingredients_pl": {
+            "0": "pentoksyfilina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62854,Agapurin-SR-400-tabletki-o-przedluzonym-uwalnianiu"
+    },
     "2": {
         "drug_name_pl": "4Flex (proszek)",
         "ingredients_en": {},
         "ingredients_pl": {},
         "url": "https://www.mp.pl/pacjent/leki/lek/75836,4Flex-proszek"
+    },
+    "20": {
+        "drug_name_pl": "Abiraterone Glenmark (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101204,Abiraterone-Glenmark-tabletki-powlekane"
+    },
+    "200": {
+        "drug_name_pl": "Agapurin SR 600 (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "pentoxifylline"
+        },
+        "ingredients_pl": {
+            "0": "pentoksyfilina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/63306,Agapurin-SR-600-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "201": {
+        "drug_name_pl": "Agastin (kapsuďż˝ki dojelitowe twarde)",
+        "ingredients_en": {
+            "0": "omeprazole"
+        },
+        "ingredients_pl": {
+            "0": "omeprazol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/66884,Agastin-kapsulki-dojelitowe-twarde"
+    },
+    "202": {
+        "drug_name_pl": "Agen 5 (tabletki)",
+        "ingredients_en": {
+            "0": "amlodipine"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99738,Agen-5-tabletki"
+    },
+    "203": {
+        "drug_name_pl": "Agen 10 (tabletki)",
+        "ingredients_en": {
+            "0": "amlodipine"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99737,Agen-10-tabletki"
+    },
+    "204": {
+        "drug_name_pl": "Aglan (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "meloxicam"
+        },
+        "ingredients_pl": {
+            "0": "meloksykam"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/69876,Aglan-roztwor-do-wstrzykiwan"
+    },
+    "205": {
+        "drug_name_pl": "Aglan 15 (tabletki)",
+        "ingredients_en": {
+            "0": "meloxicam"
+        },
+        "ingredients_pl": {
+            "0": "meloksykam"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62310,Aglan-15-tabletki"
+    },
+    "206": {
+        "drug_name_pl": "Agolek (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "agomelatine"
+        },
+        "ingredients_pl": {
+            "0": "agomelatyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96406,Agolek-tabletki-powlekane"
+    },
+    "207": {
+        "drug_name_pl": "Agomelatine Adamed (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "agomelatine"
+        },
+        "ingredients_pl": {
+            "0": "agomelatyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96410,Agomelatine-Adamed-tabletki-powlekane"
+    },
+    "208": {
+        "drug_name_pl": "Agomelatine G.L. Pharma (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "agomelatine"
+        },
+        "ingredients_pl": {
+            "0": "agomelatyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96764,Agomelatine-G.L.-Pharma-tabletki-powlekane"
+    },
+    "209": {
+        "drug_name_pl": "Agomelatine +pharma (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "agomelatine"
+        },
+        "ingredients_pl": {
+            "0": "agomelatyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96408,Agomelatine-+pharma-tabletki-powlekane"
+    },
+    "21": {
+        "drug_name_pl": "Abiraterone Krka (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102456,Abiraterone-Krka-tabletki-powlekane"
+    },
+    "210": {
+        "drug_name_pl": "Agomelatyna Egis (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "agomelatine"
+        },
+        "ingredients_pl": {
+            "0": "agomelatyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97222,Agomelatyna-Egis-tabletki-powlekane"
+    },
+    "211": {
+        "drug_name_pl": "Agregex (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "clopidogrel"
+        },
+        "ingredients_pl": {
+            "0": "klopidogrel"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98134,Agregex-tabletki-powlekane"
+    },
+    "212": {
+        "drug_name_pl": "Agrocia (roztwďż˝r na skďż˝rďż˝)",
+        "ingredients_en": {
+            "0": "minoxidil"
+        },
+        "ingredients_pl": {
+            "0": "minoksydyl"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101008,Agrocia-roztwor-na-skore"
+    },
+    "213": {
+        "drug_name_pl": "Aidee (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "dienogest",
+            "1": "ethinylestradiol"
+        },
+        "ingredients_pl": {
+            "0": "dienogest",
+            "1": "etynyloestradiol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89281,Aidee-tabletki-powlekane"
+    },
+    "214": {
+        "drug_name_pl": "Aimovig (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "erenumab"
+        },
+        "ingredients_pl": {
+            "0": "erenumab"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101933,Aimovig-roztwor-do-wstrzykiwan"
+    },
+    "215": {
+        "drug_name_pl": "Aioft (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/98815,Aioft-kapsulki"
+    },
+    "216": {
+        "drug_name_pl": "Airbufo Forspiro (proszek do inhalacji, dzielony)",
+        "ingredients_en": {
+            "0": "budesonide",
+            "1": "formoterol (formoterol fumarate dihydrate)"
+        },
+        "ingredients_pl": {
+            "0": "budezonid",
+            "1": "formoterol (dwuwodny fumaran formoterolu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100333,Airbufo-Forspiro-proszek-do-inhalacji.-dzielony"
+    },
+    "217": {
+        "drug_name_pl": "AirFluSal Forspiro (proszek do inhalacji, dzielony)",
+        "ingredients_en": {
+            "0": "fluticasone (fluticasone propionate)",
+            "1": "salmeterol"
+        },
+        "ingredients_pl": {
+            "0": "flutykazon (propionian flutykazonu)",
+            "1": "salmeterol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100384,AirFluSal-Forspiro-proszek-do-inhalacji.-dzielony"
+    },
+    "218": {
+        "drug_name_pl": "Ajona Stomaticum (koncentrat pasty do zďż˝bďż˝w)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/93971,Ajona-Stomaticum-koncentrat-pasty-do-zebow"
+    },
+    "219": {
+        "drug_name_pl": "Ajovy (roztwďż˝r do wstrzykiwaďż˝ w ampuďż˝kostrzykawce)",
+        "ingredients_en": {
+            "0": "fremanezumab"
+        },
+        "ingredients_pl": {
+            "0": "fremanezumab"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98809,Ajovy-roztwor-do-wstrzykiwan-w-ampulkostrzykawce"
+    },
+    "22": {
+        "drug_name_pl": "Abiraterone Orion (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100812,Abiraterone-Orion-tabletki-powlekane"
+    },
+    "220": {
+        "drug_name_pl": "Ajovy (roztwďż˝r do wstrzykiwaďż˝ we wstrzykiwaczu)",
+        "ingredients_en": {
+            "0": "fremanezumab"
+        },
+        "ingredients_pl": {
+            "0": "fremanezumab"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/103149,Ajovy-roztwor-do-wstrzykiwan-we-wstrzykiwaczu"
+    },
+    "221": {
+        "drug_name_pl": "Akineton (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "biperiden"
+        },
+        "ingredients_pl": {
+            "0": "biperyden"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26334,Akineton-roztwor-do-wstrzykiwan"
+    },
+    "222": {
+        "drug_name_pl": "Akineton (tabletki)",
+        "ingredients_en": {
+            "0": "biperiden"
+        },
+        "ingredients_pl": {
+            "0": "biperyden"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26336,Akineton-tabletki"
+    },
+    "223": {
+        "drug_name_pl": "Akineton SR 4 mg (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "biperiden"
+        },
+        "ingredients_pl": {
+            "0": "biperyden"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52796,Akineton-SR-4-mg-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "224": {
+        "drug_name_pl": "Akistan (krople do oczu, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "latanoprost"
+        },
+        "ingredients_pl": {
+            "0": "latanoprost"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/95158,Akistan-krople-do-oczu.-roztwor"
+    },
+    "225": {
+        "drug_name_pl": "Akistan Duo (krople do oczu, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "latanoprost",
+            "1": "timolol"
+        },
+        "ingredients_pl": {
+            "0": "latanoprost",
+            "1": "tymolol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98915,Akistan-Duo-krople-do-oczu.-roztwor"
+    },
+    "226": {
+        "drug_name_pl": "Aklief (krem)",
+        "ingredients_en": {
+            "0": "trifarotene"
+        },
+        "ingredients_pl": {
+            "0": "trifaroten"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98881,Aklief-krem"
+    },
+    "227": {
+        "drug_name_pl": "Aknemycin (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "erythromycin"
+        },
+        "ingredients_pl": {
+            "0": "erytromycyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26345,Aknemycin-masc"
+    },
+    "228": {
+        "drug_name_pl": "Aknemycin (pďż˝yn)",
+        "ingredients_en": {
+            "0": "erythromycin"
+        },
+        "ingredients_pl": {
+            "0": "erytromycyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26346,Aknemycin-plyn"
+    },
+    "229": {
+        "drug_name_pl": "Aknemycin Plus (pďż˝yn z aplikatorem)",
+        "ingredients_en": {
+            "0": "erythromycin",
+            "1": "tretinoin"
+        },
+        "ingredients_pl": {
+            "0": "erytromycyna",
+            "1": "tretynoina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50998,Aknemycin-Plus-plyn-z-aplikatorem"
+    },
+    "23": {
+        "drug_name_pl": "Abiraterone Pharmascience (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102360,Abiraterone-Pharmascience-tabletki-powlekane"
+    },
+    "230": {
+        "drug_name_pl": "Aknenormin 10 mg (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {
+            "0": "isotretinoin"
+        },
+        "ingredients_pl": {
+            "0": "izotretynoina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/73887,Aknenormin-10-mg-kapsulki-miekkie"
+    },
+    "231": {
+        "drug_name_pl": "Aknenormin 20 mg (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {
+            "0": "isotretinoin"
+        },
+        "ingredients_pl": {
+            "0": "izotretynoina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88516,Aknenormin-20-mg-kapsulki-miekkie"
+    },
+    "232": {
+        "drug_name_pl": "Akneroxid 5 (ďż˝el)",
+        "ingredients_en": {
+            "0": "benzoyl peroxide"
+        },
+        "ingredients_pl": {
+            "0": "nadtlenek benzoilu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26349,Akneroxid-5-zel"
+    },
+    "233": {
+        "drug_name_pl": "Akneroxid 10 (ďż˝el)",
+        "ingredients_en": {
+            "0": "benzoyl peroxide"
+        },
+        "ingredients_pl": {
+            "0": "nadtlenek benzoilu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26348,Akneroxid-10-zel"
+    },
+    "234": {
+        "drug_name_pl": "Akoneuro (tabletki)",
+        "ingredients_en": {
+            "0": "α-lipoic acid",
+            "1": "uridine"
+        },
+        "ingredients_pl": {
+            "0": "kwas α-liponowy",
+            "1": "urydyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97928,Akoneuro-tabletki"
+    },
+    "235": {
+        "drug_name_pl": "Akustone (spray do higieny uszu)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/91457,Akustone-spray-do-higieny-uszu"
+    },
+    "236": {
+        "drug_name_pl": "Akustone alert (krople do uszu)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/100645,Akustone-alert-krople-do-uszu"
+    },
+    "237": {
+        "drug_name_pl": "Akutol (aerozol)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/54344,Akutol-aerozol"
+    },
+    "238": {
+        "drug_name_pl": "Akutol (spray do bezbolesnego usuwania plastrďż˝w)",
+        "ingredients_en": {
+            "0": "silicon"
+        },
+        "ingredients_pl": {
+            "0": "silikon"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101513,Akutol-spray-do-bezbolesnego-usuwania-plastrow"
+    },
+    "239": {
+        "drug_name_pl": "Akynzeo (kapsuďż˝ki twarde)",
+        "ingredients_en": {
+            "0": "netupitant",
+            "1": "palonosetron"
+        },
+        "ingredients_pl": {
+            "0": "netupitant",
+            "1": "palonosetron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91259,Akynzeo-kapsulki-twarde"
+    },
+    "24": {
+        "drug_name_pl": "Abiraterone Richter (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102361,Abiraterone-Richter-tabletki-powlekane"
+    },
+    "240": {
+        "drug_name_pl": "Alacare (plaster leczniczy)",
+        "ingredients_en": {
+            "0": "5-aminolevulinic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas 5-aminolewulinowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/69878,Alacare-plaster-leczniczy"
+    },
+    "241": {
+        "drug_name_pl": "ALAnerv (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/76128,ALAnerv-kapsulki-miekkie"
+    },
+    "242": {
+        "drug_name_pl": "ALAnerv ON (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/94455,ALAnerv-ON-kapsulki-miekkie"
+    },
+    "243": {
+        "drug_name_pl": "Alantan (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "allantoin"
+        },
+        "ingredients_pl": {
+            "0": "alantoina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52867,Alantan-masc"
+    },
+    "244": {
+        "drug_name_pl": "Alantan (zasypka)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76024,Alantan-zasypka"
+    },
+    "245": {
+        "drug_name_pl": "Alantan plus (krem)",
+        "ingredients_en": {
+            "0": "allantoin",
+            "1": "dexpanthenol"
+        },
+        "ingredients_pl": {
+            "0": "alantoina",
+            "1": "dekspantenol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26361,Alantan-plus-krem"
+    },
+    "246": {
+        "drug_name_pl": "Alantan plus (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "allantoin",
+            "1": "dexpanthenol"
+        },
+        "ingredients_pl": {
+            "0": "alantoina",
+            "1": "dekspantenol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26362,Alantan-plus-masc"
+    },
+    "247": {
+        "drug_name_pl": "Alantan Plus Altek (zasypka)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76022,Alantan-Plus-Altek-zasypka"
+    },
+    "248": {
+        "drug_name_pl": "Alantandermoline Krem gďż˝ďż˝boko nawilďż˝ajďż˝cy (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88239,Alantandermoline-Krem-gleboko-nawilzajacy-krem"
+    },
+    "249": {
+        "drug_name_pl": "Alantandermoline Krem ochronny pďż˝tďż˝usty z witaminami A + E (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76025,Alantandermoline-Krem-ochronny-poltlusty-z-witaminami-A-+-E-krem"
+    },
+    "25": {
+        "drug_name_pl": "Abiraterone Sandoz (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101003,Abiraterone-Sandoz-tabletki-powlekane"
+    },
+    "250": {
+        "drug_name_pl": "Alantandermoline Krem ochronny z witaminďż˝ A (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76026,Alantandermoline-Krem-ochronny-z-witamina-A-krem"
+    },
+    "251": {
+        "drug_name_pl": "Alantandermoline Krem zďż˝uszczajďż˝cy (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/95861,Alantandermoline-Krem-zluszczajacy-krem"
+    },
+    "252": {
+        "drug_name_pl": "Alantandermoline Lekki krem (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76027,Alantandermoline-Lekki-krem-krem"
+    },
+    "253": {
+        "drug_name_pl": "Alantandermoline Maďż˝ďż˝ pielďż˝gnacyjna z witaminďż˝ F (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76028,Alantandermoline-Masc-pielegnacyjna-z-witamina-F-masc"
+    },
+    "254": {
+        "drug_name_pl": "Alantandermoline Nawilďż˝ajďż˝cy balsam do ciaďż˝a (balsam)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82082,Alantandermoline-Nawilzajacy-balsam-do-ciala-balsam"
+    },
+    "255": {
+        "drug_name_pl": "Alantavit (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "allantoin",
+            "1": "cholecalciferol"
+        },
+        "ingredients_pl": {
+            "0": "alantoina",
+            "1": "cholekalcyferol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26367,Alantavit-masc"
+    },
+    "256": {
+        "drug_name_pl": "Alax (tabletki draďż˝owane)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/52868,Alax-tabletki-drazowane"
+    },
+    "257": {
+        "drug_name_pl": "Albiomin 20% (roztwďż˝r do infuzji)",
+        "ingredients_en": {
+            "0": "human albumin"
+        },
+        "ingredients_pl": {
+            "0": "albumina ludzka"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/68768,Albiomin-20-roztwor-do-infuzji"
+    },
+    "258": {
+        "drug_name_pl": "Albivag (globulki dopochwowe)",
+        "ingredients_en": {
+            "0": "hyaluronic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas hialuronowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94468,Albivag-globulki-dopochwowe"
+    },
+    "259": {
+        "drug_name_pl": "Albivag (ďż˝el dopochwowy)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/100412,Albivag-zel-dopochwowy"
+    },
+    "26": {
+        "drug_name_pl": "Abiraterone STADA (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101746,Abiraterone-STADA-tabletki-powlekane"
+    },
+    "260": {
+        "drug_name_pl": "Albothyl (globulki)",
+        "ingredients_en": {
+            "0": "polycresulane"
+        },
+        "ingredients_pl": {
+            "0": "polikrezulen"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26379,Albothyl-globulki"
+    },
+    "261": {
+        "drug_name_pl": "Alburex 5 (roztwďż˝r do infuzji)",
+        "ingredients_en": {
+            "0": "human albumin"
+        },
+        "ingredients_pl": {
+            "0": "albumina ludzka"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/86464,Alburex-5-roztwor-do-infuzji"
+    },
+    "262": {
+        "drug_name_pl": "Alburex 20 (roztwďż˝r do infuzji)",
+        "ingredients_en": {
+            "0": "human albumin"
+        },
+        "ingredients_pl": {
+            "0": "albumina ludzka"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85399,Alburex-20-roztwor-do-infuzji"
+    },
+    "263": {
+        "drug_name_pl": "Alcaine (krople do oczu, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "proxymethacaine"
+        },
+        "ingredients_pl": {
+            "0": "proksymetakaina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26419,Alcaine-krople-do-oczu.-roztwor"
+    },
+    "264": {
+        "drug_name_pl": "AlcaNeff (tabletki)",
+        "ingredients_en": {
+            "0": "sodium bicarbonate"
+        },
+        "ingredients_pl": {
+            "0": "wodorowęglan sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91183,AlcaNeff-tabletki"
+    },
+    "265": {
+        "drug_name_pl": "Alcep (syrop)",
+        "ingredients_en": {
+            "0": "onion extract"
+        },
+        "ingredients_pl": {
+            "0": "wyciąg z cebuli"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/51377,Alcep-syrop"
+    },
+    "266": {
+        "drug_name_pl": "Aldactone (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "potassium canrenoate"
+        },
+        "ingredients_pl": {
+            "0": "kanrenoinian potasu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82096,Aldactone-roztwor-do-wstrzykiwan"
+    },
+    "267": {
+        "drug_name_pl": "Aldan 5 (tabletki)",
+        "ingredients_en": {
+            "0": "amlodipine"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/56984,Aldan-5-tabletki"
+    },
+    "268": {
+        "drug_name_pl": "Aldan 10 (tabletki)",
+        "ingredients_en": {
+            "0": "amlodipine"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/56985,Aldan-10-tabletki"
+    },
+    "269": {
+        "drug_name_pl": "Aldara 5% Krem (krem)",
+        "ingredients_en": {
+            "0": "imiquimod"
+        },
+        "ingredients_pl": {
+            "0": "imikwimod"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52870,Aldara-5-Krem-krem"
+    },
+    "27": {
+        "drug_name_pl": "Abiraterone Vipharm (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "abiraterone"
+        },
+        "ingredients_pl": {
+            "0": "abirateron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102215,Abiraterone-Vipharm-tabletki-powlekane"
+    },
+    "270": {
+        "drug_name_pl": "Aldurazyme (koncentrat do sporzďż˝dzania roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "laronidase"
+        },
+        "ingredients_pl": {
+            "0": "laronidaza"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/69082,Aldurazyme-koncentrat-do-sporzadzania-roztworu-do-infuzji"
+    },
+    "271": {
+        "drug_name_pl": "Alecensa (kapsuďż˝ki twarde)",
+        "ingredients_en": {
+            "0": "alectinib"
+        },
+        "ingredients_pl": {
+            "0": "alektynib"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/95768,Alecensa-kapsulki-twarde"
+    },
+    "272": {
+        "drug_name_pl": "Alectoin (krople do oczu)",
+        "ingredients_en": {
+            "0": "ectoine"
+        },
+        "ingredients_pl": {
+            "0": "ektoina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90796,Alectoin-krople-do-oczu"
+    },
+    "273": {
+        "drug_name_pl": "Alendran 70 (tabletki)",
+        "ingredients_en": {
+            "0": "sodium alendronate"
+        },
+        "ingredients_pl": {
+            "0": "alendronian sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/64991,Alendran-70-tabletki"
+    },
+    "274": {
+        "drug_name_pl": "Alendrogen (tabletki)",
+        "ingredients_en": {
+            "0": "sodium alendronate"
+        },
+        "ingredients_pl": {
+            "0": "alendronian sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62857,Alendrogen-tabletki"
+    },
+    "275": {
+        "drug_name_pl": "Alendronat Bluefish (tabletki)",
+        "ingredients_en": {
+            "0": "sodium alendronate"
+        },
+        "ingredients_pl": {
+            "0": "alendronian sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/70156,Alendronat-Bluefish-tabletki"
+    },
+    "276": {
+        "drug_name_pl": "Alendronic Acid Genoptim (tabletki)",
+        "ingredients_en": {
+            "0": "sodium alendronate"
+        },
+        "ingredients_pl": {
+            "0": "alendronian sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85453,Alendronic-Acid-Genoptim-tabletki"
+    },
+    "277": {
+        "drug_name_pl": "Alerbon (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/94686,Alerbon-kapsulki"
+    },
+    "278": {
+        "drug_name_pl": "Alercal (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "calcium",
+            "1": "quercetin"
+        },
+        "ingredients_pl": {
+            "0": "wapń",
+            "1": "kwercetyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81496,Alercal-tabletki-musujace"
+    },
+    "279": {
+        "drug_name_pl": "Alergimed (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "levocetirizine (levocetirizine dihydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "lewocetyryzyna (dichlorowodorek lewocetyryzyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90185,Alergimed-tabletki-powlekane"
+    },
+    "28": {
+        "drug_name_pl": "Abra (test paskowy)",
+        "ingredients_en": {
+            "0": "strip test"
+        },
+        "ingredients_pl": {
+            "0": "test paskowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81792,Abra-test-paskowy"
+    },
+    "280": {
+        "drug_name_pl": "AlergoTeva (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "desloratadine"
+        },
+        "ingredients_pl": {
+            "0": "desloratadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89254,AlergoTeva-tabletki-powlekane"
+    },
+    "281": {
+        "drug_name_pl": "Aleric Deslo Active (roztwďż˝r doustny)",
+        "ingredients_en": {
+            "0": "desloratadine"
+        },
+        "ingredients_pl": {
+            "0": "desloratadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84421,Aleric-Deslo-Active-roztwor-doustny"
+    },
+    "282": {
+        "drug_name_pl": "Aleric Deslo Active (tabletki ulegajďż˝ce rozpadowi w jamie ustnej)",
+        "ingredients_en": {
+            "0": "desloratadine"
+        },
+        "ingredients_pl": {
+            "0": "desloratadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90872,Aleric-Deslo-Active-tabletki-ulegajace-rozpadowi-w-jamie-ustnej"
+    },
+    "283": {
+        "drug_name_pl": "Aleric Spray (aerozol do nosa, zawiesina)",
+        "ingredients_en": {
+            "0": "mometasone (mometasone furoate)"
+        },
+        "ingredients_pl": {
+            "0": "mometazon (furoinian mometazonu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99432,Aleric-Spray-aerozol-do-nosa.-zawiesina"
+    },
+    "284": {
+        "drug_name_pl": "Alermed (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "cetirizine (cetirizine dihydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "cetyryzyna (dichlorowodorek cetyryzyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81781,Alermed-tabletki-powlekane"
+    },
+    "285": {
+        "drug_name_pl": "Aleve (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "naproxen (naproxen sodium)"
+        },
+        "ingredients_pl": {
+            "0": "naproksen (sól sodowa naproksenu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84381,Aleve-tabletki-powlekane"
+    },
+    "286": {
+        "drug_name_pl": "Alexan (roztwďż˝r do infuzji)",
+        "ingredients_en": {
+            "0": "cytarabine"
+        },
+        "ingredients_pl": {
+            "0": "cytarabina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/63842,Alexan-roztwor-do-infuzji"
+    },
+    "287": {
+        "drug_name_pl": "Alexan (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "cytarabine"
+        },
+        "ingredients_pl": {
+            "0": "cytarabina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/64402,Alexan-roztwor-do-wstrzykiwan"
+    },
+    "288": {
+        "drug_name_pl": "Alfabax (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "alfuzosin"
+        },
+        "ingredients_pl": {
+            "0": "alfuzosyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/70245,Alfabax-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "289": {
+        "drug_name_pl": "Alfacalcidol Softgel (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "alfacalcidol"
+        },
+        "ingredients_pl": {
+            "0": "alfakalcydol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102749,Alfacalcidol-Softgel-kapsulki"
+    },
+    "29": {
+        "drug_name_pl": "Abraxane (proszek do sporzďż˝dzania zaw. do infuzji)",
+        "ingredients_en": {
+            "0": "paclitaxel"
+        },
+        "ingredients_pl": {
+            "0": "paklitaksel"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91264,Abraxane-proszek-do-sporzadzania-zaw.-do-infuzji"
+    },
+    "290": {
+        "drug_name_pl": "Alfadiol (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {
+            "0": "alfacalcidol"
+        },
+        "ingredients_pl": {
+            "0": "alfakalcydol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26524,Alfadiol-kapsulki-miekkie"
+    },
+    "291": {
+        "drug_name_pl": "Alfalipon prodiab (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "borage oil",
+            "1": "α-lipoic acid"
+        },
+        "ingredients_pl": {
+            "0": "olej z ogórecznika",
+            "1": "kwas α-liponowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89530,Alfalipon-prodiab-kapsulki"
+    },
+    "292": {
+        "drug_name_pl": "Alfarydyna (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "α-lipoic acid",
+            "1": "uridine"
+        },
+        "ingredients_pl": {
+            "0": "kwas α-liponowy",
+            "1": "urydyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97522,Alfarydyna-kapsulki"
+    },
+    "293": {
+        "drug_name_pl": "Alfazepan (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/91190,Alfazepan-kapsulki"
+    },
+    "294": {
+        "drug_name_pl": "Alflorex (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "bifidobacterium"
+        },
+        "ingredients_pl": {
+            "0": "bifidobacterium"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94952,Alflorex-kapsulki"
+    },
+    "295": {
+        "drug_name_pl": "Alfurion (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "alfuzosin"
+        },
+        "ingredients_pl": {
+            "0": "alfuzosyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91676,Alfurion-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "296": {
+        "drug_name_pl": "Alfuzostad 10 mg (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "alfuzosin"
+        },
+        "ingredients_pl": {
+            "0": "alfuzosyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62738,Alfuzostad-10-mg-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "297": {
+        "drug_name_pl": "Algabion DHA + D (pďż˝yn)",
+        "ingredients_en": {
+            "0": "cholecalciferol",
+            "1": "omega-3 fatty acids"
+        },
+        "ingredients_pl": {
+            "0": "cholekalcyferol",
+            "1": "kwasy tłuszczowe omega-3"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102132,Algabion-DHA-+-D-plyn"
+    },
+    "298": {
+        "drug_name_pl": "Alkala N (proszek)",
+        "ingredients_en": {
+            "0": "potassium (potassium bicarbonate)",
+            "1": "sodium bicarbonate"
+        },
+        "ingredients_pl": {
+            "0": "potas (wodorowęglan potasu)",
+            "1": "wodorowęglan sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81941,Alkala-N-proszek"
+    },
+    "299": {
+        "drug_name_pl": "Alkala T (tabletki)",
+        "ingredients_en": {
+            "0": "sodium bicarbonate"
+        },
+        "ingredients_pl": {
+            "0": "wodorowęglan sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88214,Alkala-T-tabletki"
     },
     "3": {
         "drug_name_pl": "4Flex o smaku czarnej porzeczki (proszek)",
@@ -27,8 +2257,1060 @@
         "ingredients_pl": {},
         "url": "https://www.mp.pl/pacjent/leki/lek/92224,4Flex-o-smaku-czarnej-porzeczki-proszek"
     },
+    "30": {
+        "drug_name_pl": "Abrea (tabletki dojelitowe)",
+        "ingredients_en": {
+            "0": "acetylsalicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas acetylosalicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91814,Abrea-tabletki-dojelitowe"
+    },
+    "300": {
+        "drug_name_pl": "Alka-Seltzer (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "acetylsalicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas acetylosalicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26473,Alka-Seltzer-tabletki-musujace"
+    },
+    "301": {
+        "drug_name_pl": "Alkeran (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "melphalan"
+        },
+        "ingredients_pl": {
+            "0": "melfalan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26480,Alkeran-tabletki-powlekane"
+    },
+    "302": {
+        "drug_name_pl": "Allefin (ďż˝el)",
+        "ingredients_en": {
+            "0": "diphenhydramine",
+            "1": "lidocaine"
+        },
+        "ingredients_pl": {
+            "0": "difenhydramina",
+            "1": "lidokaina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100217,Allefin-zel"
+    },
+    "303": {
+        "drug_name_pl": "Allegra (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "fexofenadine"
+        },
+        "ingredients_pl": {
+            "0": "feksofenadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81612,Allegra-tabletki-powlekane"
+    },
+    "304": {
+        "drug_name_pl": "Allegra Telfast 180 (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "fexofenadine"
+        },
+        "ingredients_pl": {
+            "0": "feksofenadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/49189,Allegra-Telfast-180-tabletki-powlekane"
+    },
+    "305": {
+        "drug_name_pl": "Alleoptical (krople do oczu, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "sodium cromoglycate"
+        },
+        "ingredients_pl": {
+            "0": "kromoglikan sodowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/89255,Alleoptical-krople-do-oczu.-roztwor"
+    },
+    "306": {
+        "drug_name_pl": "Allergocaps (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/64197,Allergocaps-kapsulki"
+    },
+    "307": {
+        "drug_name_pl": "Allergo-COMOD (krople do oczu)",
+        "ingredients_en": {
+            "0": "sodium cromoglycate"
+        },
+        "ingredients_pl": {
+            "0": "kromoglikan sodowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/56479,Allergo-COMOD-krople-do-oczu"
+    },
+    "308": {
+        "drug_name_pl": "Allergocrom (krople do oczu)",
+        "ingredients_en": {
+            "0": "sodium cromoglycate"
+        },
+        "ingredients_pl": {
+            "0": "kromoglikan sodowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/53938,Allergocrom-krople-do-oczu"
+    },
+    "309": {
+        "drug_name_pl": "Allergodil (aerozol do nosa, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "azelastine"
+        },
+        "ingredients_pl": {
+            "0": "azelastyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26484,Allergodil-aerozol-do-nosa.-roztwor"
+    },
+    "31": {
+        "drug_name_pl": "Absenor (tabletki o zmodyfikowanym uwalnianiu)",
+        "ingredients_en": {
+            "0": "sodium valproate"
+        },
+        "ingredients_pl": {
+            "0": "walproinian sodu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/63549,Absenor-tabletki-o-zmodyfikowanym-uwalnianiu"
+    },
+    "310": {
+        "drug_name_pl": "Allergodil (krople do oczu, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "azelastine"
+        },
+        "ingredients_pl": {
+            "0": "azelastyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/57743,Allergodil-krople-do-oczu.-roztwor"
+    },
+    "311": {
+        "drug_name_pl": "Allergof Spray Neutralizator alergenďż˝w kurzu domowego (spray)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/96249,Allergof-Spray-Neutralizator-alergenow-kurzu-domowego-spray"
+    },
+    "312": {
+        "drug_name_pl": "Allergof Wash Neutralizator alergenďż˝w kurzu domowego (pďż˝yn do tkanin)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/99568,Allergof-Wash-Neutralizator-alergenow-kurzu-domowego-plyn-do-tkanin"
+    },
+    "313": {
+        "drug_name_pl": "Allergovit A, B (brzoza 100%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97464,Allergovit-A.-B-brzoza-100-zawiesina-do-wstrzykiwan"
+    },
+    "314": {
+        "drug_name_pl": "Allergovit A, B (brzoza 35%, olcha 30%, leszczyna 35%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50059,Allergovit-A.-B-brzoza-35.-olcha-30.-leszczyna-35-zawiesina-do-wstrzykiwan"
+    },
+    "315": {
+        "drug_name_pl": "Allergovit A, B (trawy 100%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50050,Allergovit-A.-B-trawy-100-zawiesina-do-wstrzykiwan"
+    },
+    "316": {
+        "drug_name_pl": "Allergovit A, B (trawy 60%, brzoza 20%, ďż˝yto 20%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50052,Allergovit-A.-B-trawy-60.-brzoza-20.-zyto-20-zawiesina-do-wstrzykiwan"
+    },
+    "317": {
+        "drug_name_pl": "Allergovit A, B (trawy 60%, ďż˝yto 40%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50053,Allergovit-A.-B-trawy-60.-zyto-40-zawiesina-do-wstrzykiwan"
+    },
+    "318": {
+        "drug_name_pl": "Allergovit A, B (trawy/zboďż˝a 100%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50055,Allergovit-A.-B-trawy/zboza-100-zawiesina-do-wstrzykiwan"
+    },
+    "319": {
+        "drug_name_pl": "Allergovit B (brzoza 100%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97465,Allergovit-B-brzoza-100-zawiesina-do-wstrzykiwan"
+    },
+    "32": {
+        "drug_name_pl": "Acai (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83680,Acai-kapsulki"
+    },
+    "320": {
+        "drug_name_pl": "Allergovit B (brzoza 35%, olcha 30%, leszczyna 35%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97472,Allergovit-B-brzoza-35.-olcha-30.-leszczyna-35-zawiesina-do-wstrzykiwan"
+    },
+    "321": {
+        "drug_name_pl": "Allergovit B (trawy 100%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97450,Allergovit-B-trawy-100-zawiesina-do-wstrzykiwan"
+    },
+    "322": {
+        "drug_name_pl": "Allergovit B (trawy 60%, brzoza 20%, ďż˝yto 20%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97454,Allergovit-B-trawy-60.-brzoza-20.-zyto-20-zawiesina-do-wstrzykiwan"
+    },
+    "323": {
+        "drug_name_pl": "Allergovit B (trawy 60%, ďż˝yto 40%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97452,Allergovit-B-trawy-60.-zyto-40-zawiesina-do-wstrzykiwan"
+    },
+    "324": {
+        "drug_name_pl": "Allergovit B (trawy/zboďż˝a 100%) (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergoids (allergenic substances) for medical purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergoidy (substancje alergenowe) dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97451,Allergovit-B-trawy/zboza-100-zawiesina-do-wstrzykiwan"
+    },
+    "325": {
+        "drug_name_pl": "Allertec (krople doustne, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "cetirizine (cetirizine dihydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "cetyryzyna (dichlorowodorek cetyryzyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62556,Allertec-krople-doustne.-roztwor"
+    },
+    "326": {
+        "drug_name_pl": "Allertec (syrop)",
+        "ingredients_en": {
+            "0": "cetirizine (cetirizine dihydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "cetyryzyna (dichlorowodorek cetyryzyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52079,Allertec-syrop"
+    },
+    "327": {
+        "drug_name_pl": "Allertec (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "cetirizine (cetirizine dihydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "cetyryzyna (dichlorowodorek cetyryzyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/62557,Allertec-tabletki-powlekane"
+    },
+    "328": {
+        "drug_name_pl": "Allertec Effect (tabletki)",
+        "ingredients_en": {
+            "0": "bilastine"
+        },
+        "ingredients_pl": {
+            "0": "bilastyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102751,Allertec-Effect-tabletki"
+    },
+    "329": {
+        "drug_name_pl": "Allertec Fexo (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "fexofenadine"
+        },
+        "ingredients_pl": {
+            "0": "feksofenadyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94894,Allertec-Fexo-tabletki-powlekane"
+    },
+    "33": {
+        "drug_name_pl": "Acai ekstrakt (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83677,Acai-ekstrakt-kapsulki"
+    },
+    "330": {
+        "drug_name_pl": "Allertec Wapno Plus (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "calcium (calcium carbonate)",
+            "1": "cholecalciferol"
+        },
+        "ingredients_pl": {
+            "0": "wapń (węglan wapnia)",
+            "1": "cholekalcyferol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/87859,Allertec-Wapno-Plus-tabletki-musujace"
+    },
+    "331": {
+        "drug_name_pl": "Allertec WZF (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "cetirizine (cetirizine dihydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "cetyryzyna (dichlorowodorek cetyryzyny)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/103150,Allertec-WZF-tabletki-powlekane"
+    },
+    "332": {
+        "drug_name_pl": "Allevyn Adhesive (opatrunek piankowy przylepny)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82401,Allevyn-Adhesive-opatrunek-piankowy-przylepny"
+    },
+    "333": {
+        "drug_name_pl": "Allevyn Ag Adhesive (opatrunek piankowy przylepny ze srebrem)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88960,Allevyn-Ag-Adhesive-opatrunek-piankowy-przylepny-ze-srebrem"
+    },
+    "334": {
+        "drug_name_pl": "Allevyn Ag Heel (opatrunek piankowy ze srebrem)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82420,Allevyn-Ag-Heel-opatrunek-piankowy-ze-srebrem"
+    },
+    "335": {
+        "drug_name_pl": "Allevyn Ag Non Adhesive (opatrunek piankowy nieprzylepny ze srebrem)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88044,Allevyn-Ag-Non-Adhesive-opatrunek-piankowy-nieprzylepny-ze-srebrem"
+    },
+    "336": {
+        "drug_name_pl": "Allevyn Ag Sacrum (opatrunek piankowy ze srebrem)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82410,Allevyn-Ag-Sacrum-opatrunek-piankowy-ze-srebrem"
+    },
+    "337": {
+        "drug_name_pl": "Allevyn Gentle Border (opatrunek piankowy z warstwďż˝ adhezyjnďż˝ zawierajďż˝cďż˝ silikon)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98992,Allevyn-Gentle-Border-opatrunek-piankowy-z-warstwa-adhezyjna-zawierajaca-silikon"
+    },
+    "338": {
+        "drug_name_pl": "Allevyn Gentle Border Heel (opatrunek piankowy z warstwďż˝ adhezyjnďż˝ zawierajďż˝cďż˝ silikon)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98987,Allevyn-Gentle-Border-Heel-opatrunek-piankowy-z-warstwa-adhezyjna-zawierajaca-silikon"
+    },
+    "339": {
+        "drug_name_pl": "Allevyn Gentle Border Lite (opatrunek piankowy z warstwďż˝ adhezyjnďż˝ zawierajďż˝cďż˝ silikon)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98986,Allevyn-Gentle-Border-Lite-opatrunek-piankowy-z-warstwa-adhezyjna-zawierajaca-silikon"
+    },
+    "34": {
+        "drug_name_pl": "Acai ekstrakt - potrďż˝jna moc (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83672,Acai-ekstrakt-potrojna-moc-kapsulki"
+    },
+    "340": {
+        "drug_name_pl": "Allevyn Gentle Border Lite Oval (opatrunek piankowy z warstwďż˝ adhezyjnďż˝ zawierajďż˝cďż˝ silikon)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98983,Allevyn-Gentle-Border-Lite-Oval-opatrunek-piankowy-z-warstwa-adhezyjna-zawierajaca-silikon"
+    },
+    "341": {
+        "drug_name_pl": "Allevyn Gentle Border Multisite (opatrunek piankowy z warstwďż˝ adhezyjnďż˝ zawierajďż˝cďż˝ silikon)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98982,Allevyn-Gentle-Border-Multisite-opatrunek-piankowy-z-warstwa-adhezyjna-zawierajaca-silikon"
+    },
+    "342": {
+        "drug_name_pl": "Allevyn Heel (opatrunek piankowy)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82407,Allevyn-Heel-opatrunek-piankowy"
+    },
+    "343": {
+        "drug_name_pl": "Allevyn Life (opatrunek piankowy z ďż˝elem silikonowym)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85531,Allevyn-Life-opatrunek-piankowy-z-zelem-silikonowym"
+    },
+    "344": {
+        "drug_name_pl": "Allevyn Life Heel (opatrunek piankowy z ďż˝elem silikonowym)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85532,Allevyn-Life-Heel-opatrunek-piankowy-z-zelem-silikonowym"
+    },
+    "345": {
+        "drug_name_pl": "Allevyn Life Sacrum (opatrunek piankowy z ďż˝elem silikonowym)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85534,Allevyn-Life-Sacrum-opatrunek-piankowy-z-zelem-silikonowym"
+    },
+    "346": {
+        "drug_name_pl": "Allevyn Non Adhesive (opatrunek piankowy nieprzylepny)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/59783,Allevyn-Non-Adhesive-opatrunek-piankowy-nieprzylepny"
+    },
+    "347": {
+        "drug_name_pl": "Allevyn Sacrum (opatrunek piankowy)",
+        "ingredients_en": {
+            "0": "dressing"
+        },
+        "ingredients_pl": {
+            "0": "opatrunek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/82406,Allevyn-Sacrum-opatrunek-piankowy"
+    },
+    "348": {
+        "drug_name_pl": "Alliofil forte (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/89282,Alliofil-forte-kapsulki"
+    },
+    "349": {
+        "drug_name_pl": "Alliogal (kapsuďż˝ki elastyczne)",
+        "ingredients_en": {
+            "0": "garlic"
+        },
+        "ingredients_pl": {
+            "0": "czosnek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/51053,Alliogal-kapsulki-elastyczne"
+    },
+    "35": {
+        "drug_name_pl": "Acai owoc (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83678,Acai-owoc-kapsulki"
+    },
+    "350": {
+        "drug_name_pl": "Alliomint (tabletki)",
+        "ingredients_en": {
+            "0": "garlic"
+        },
+        "ingredients_pl": {
+            "0": "czosnek"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/57746,Alliomint-tabletki"
+    },
+    "351": {
+        "drug_name_pl": "Allupol (tabletki)",
+        "ingredients_en": {
+            "0": "allopurinol"
+        },
+        "ingredients_pl": {
+            "0": "allopurynol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92076,Allupol-tabletki"
+    },
+    "352": {
+        "drug_name_pl": "Alluzience (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "botulinum toxin A"
+        },
+        "ingredients_pl": {
+            "0": "toksyna botulinowa A"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100596,Alluzience-roztwor-do-wstrzykiwan"
+    },
+    "353": {
+        "drug_name_pl": "Almiflux (tabletki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/103154,Almiflux-tabletki"
+    },
+    "354": {
+        "drug_name_pl": "Almozen (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "almotriptan"
+        },
+        "ingredients_pl": {
+            "0": "almotryptan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90874,Almozen-tabletki-powlekane"
+    },
+    "355": {
+        "drug_name_pl": "Alneta (tabletki)",
+        "ingredients_en": {
+            "0": "amlodipine"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88011,Alneta-tabletki"
+    },
+    "356": {
+        "drug_name_pl": "Alocutan (aerozol na skďż˝rďż˝, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "minoxidil"
+        },
+        "ingredients_pl": {
+            "0": "minoksydyl"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92606,Alocutan-aerozol-na-skore.-roztwor"
+    },
+    "357": {
+        "drug_name_pl": "Alocutan Forte (aerozol na skďż˝rďż˝, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "minoxidil"
+        },
+        "ingredients_pl": {
+            "0": "minoksydyl"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92607,Alocutan-Forte-aerozol-na-skore.-roztwor"
+    },
+    "358": {
+        "drug_name_pl": "AloeNasin (spray do nosa)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/102562,AloeNasin-spray-do-nosa"
+    },
+    "359": {
+        "drug_name_pl": "Aloes (pďż˝yn doustny)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/95258,Aloes-plyn-doustny"
+    },
+    "36": {
+        "drug_name_pl": "Acard (tabletki dojelitowe)",
+        "ingredients_en": {
+            "0": "acetylsalicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas acetylosalicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92614,Acard-tabletki-dojelitowe"
+    },
+    "360": {
+        "drug_name_pl": "Aloesowe krople do oczu (krople do oczu)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/92439,Aloesowe-krople-do-oczu-krople-do-oczu"
+    },
+    "361": {
+        "drug_name_pl": "Alofisel (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "darvadstrocel"
+        },
+        "ingredients_pl": {
+            "0": "darwadstrocel"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101922,Alofisel-zawiesina-do-wstrzykiwan"
+    },
+    "362": {
+        "drug_name_pl": "Alopexy (roztwďż˝r na skďż˝rďż˝)",
+        "ingredients_en": {
+            "0": "minoxidil"
+        },
+        "ingredients_pl": {
+            "0": "minoksydyl"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/77256,Alopexy-roztwor-na-skore"
+    },
+    "363": {
+        "drug_name_pl": "Alortia (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "amlodipine",
+            "1": "losartan"
+        },
+        "ingredients_pl": {
+            "0": "amlodypina",
+            "1": "losartan"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/87958,Alortia-tabletki-powlekane"
+    },
+    "364": {
+        "drug_name_pl": "Aloxi (kapsuďż˝ki miďż˝kkie)",
+        "ingredients_en": {
+            "0": "palonosetron"
+        },
+        "ingredients_pl": {
+            "0": "palonosetron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88507,Aloxi-kapsulki-miekkie"
+    },
+    "365": {
+        "drug_name_pl": "Aloxi (roztwďż˝r do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "palonosetron"
+        },
+        "ingredients_pl": {
+            "0": "palonosetron"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/63623,Aloxi-roztwor-do-wstrzykiwan"
+    },
+    "366": {
+        "drug_name_pl": "Alpha D3 (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "alfacalcidol"
+        },
+        "ingredients_pl": {
+            "0": "alfakalcydol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/102174,Alpha-D3-kapsulki"
+    },
+    "367": {
+        "drug_name_pl": "Alphagan (krople do oczu, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "brimonidine"
+        },
+        "ingredients_pl": {
+            "0": "brymonidyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26527,Alphagan-krople-do-oczu.-roztwor"
+    },
+    "368": {
+        "drug_name_pl": "Alpicort (pďż˝yn)",
+        "ingredients_en": {
+            "0": "prednisolone",
+            "1": "salicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "prednizolon",
+            "1": "kwas salicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/51421,Alpicort-plyn"
+    },
+    "369": {
+        "drug_name_pl": "Alpicort E (pďż˝yn)",
+        "ingredients_en": {
+            "0": "estradiol (estradiol benzoate)",
+            "1": "prednisolone"
+        },
+        "ingredients_pl": {
+            "0": "estradiol (benzoesan estradiolu)",
+            "1": "prednizolon"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/51422,Alpicort-E-plyn"
+    },
+    "37": {
+        "drug_name_pl": "Acard 150 mg (tabletki dojelitowe)",
+        "ingredients_en": {
+            "0": "acetylsalicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas acetylosalicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/76006,Acard-150-mg-tabletki-dojelitowe"
+    },
+    "370": {
+        "drug_name_pl": "Alpikol Babcina receptura syrop na odpornoďż˝ďż˝ (syrop)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/96731,Alpikol-Babcina-receptura-syrop-na-odpornosc-syrop"
+    },
+    "371": {
+        "drug_name_pl": "Alpikol Plus syrop na odpornoďż˝ďż˝ (syrop)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/96730,Alpikol-Plus-syrop-na-odpornosc-syrop"
+    },
+    "372": {
+        "drug_name_pl": "Alpikol syrop na odpornoďż˝ďż˝ (syrop)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/96729,Alpikol-syrop-na-odpornosc-syrop"
+    },
+    "373": {
+        "drug_name_pl": "Alpragen (tabletki)",
+        "ingredients_en": {
+            "0": "alprazolam"
+        },
+        "ingredients_pl": {
+            "0": "alprazolam"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/54616,Alpragen-tabletki"
+    },
+    "374": {
+        "drug_name_pl": "Alprazolam Aurovitas (tabletki)",
+        "ingredients_en": {
+            "0": "alprazolam"
+        },
+        "ingredients_pl": {
+            "0": "alprazolam"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92055,Alprazolam-Aurovitas-tabletki"
+    },
+    "375": {
+        "drug_name_pl": "Alprolix (proszek i rozpuszczalnik do sporzďż˝dzania roztworu do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "factor IX (recombinant), eftrenonacog alfa"
+        },
+        "ingredients_pl": {
+            "0": "czynnik IX (rekombinowany), eftrenonakog alfa"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97242,Alprolix-proszek-i-rozpuszczalnik-do-sporzadzania-roztworu-do-wstrzykiwan"
+    },
+    "376": {
+        "drug_name_pl": "Alprox (tabletki)",
+        "ingredients_en": {
+            "0": "alprazolam"
+        },
+        "ingredients_pl": {
+            "0": "alprazolam"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/78207,Alprox-tabletki"
+    },
+    "377": {
+        "drug_name_pl": "Altabactin (maďż˝ďż˝)",
+        "ingredients_en": {
+            "0": "bacitracin",
+            "1": "neomycin"
+        },
+        "ingredients_pl": {
+            "0": "bacytracyna",
+            "1": "neomycyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98697,Altabactin-masc"
+    },
+    "378": {
+        "drug_name_pl": "Altacet (tabletki)",
+        "ingredients_en": {
+            "0": "aluminum (aluminium acetate tartrate)",
+            "1": "boric acid"
+        },
+        "ingredients_pl": {
+            "0": "glin (octanowinian glinu)",
+            "1": "kwas borowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26542,Altacet-tabletki"
+    },
+    "379": {
+        "drug_name_pl": "Altacet (ďż˝el)",
+        "ingredients_en": {
+            "0": "aluminum (aluminium acetate tartrate)"
+        },
+        "ingredients_pl": {
+            "0": "glin (octanowinian glinu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52061,Altacet-zel"
+    },
+    "38": {
+        "drug_name_pl": "Acard 300 mg (tabletki)",
+        "ingredients_en": {
+            "0": "acetylsalicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas acetylosalicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91895,Acard-300-mg-tabletki"
+    },
+    "380": {
+        "drug_name_pl": "Altacet Ice (aerozol)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/69283,Altacet-Ice-aerozol"
+    },
+    "381": {
+        "drug_name_pl": "Altaziaja (ďż˝el)",
+        "ingredients_en": {
+            "0": "aluminum (aluminium acetate tartrate)"
+        },
+        "ingredients_pl": {
+            "0": "glin (octanowinian glinu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/60560,Altaziaja-zel"
+    },
+    "382": {
+        "drug_name_pl": "Altaďż˝el Oceanic (ďż˝el)",
+        "ingredients_en": {
+            "0": "aluminum (aluminium acetate tartrate)"
+        },
+        "ingredients_pl": {
+            "0": "glin (octanowinian glinu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92413,Altazel-Oceanic-zel"
+    },
+    "383": {
+        "drug_name_pl": "Althyxin (roztwďż˝r doustny)",
+        "ingredients_en": {
+            "0": "levothyroxine"
+        },
+        "ingredients_pl": {
+            "0": "lewotyroksyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/101138,Althyxin-roztwor-doustny"
+    },
+    "384": {
+        "drug_name_pl": "Althyxin (tabletki)",
+        "ingredients_en": {
+            "0": "levothyroxine"
+        },
+        "ingredients_pl": {
+            "0": "lewotyroksyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99834,Althyxin-tabletki"
+    },
+    "385": {
+        "drug_name_pl": "Alti-sir (syrop)",
+        "ingredients_en": {
+            "0": "marshmallow root"
+        },
+        "ingredients_pl": {
+            "0": "korzeń prawoślazu"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/43479,Alti-sir-syrop"
+    },
+    "386": {
+        "drug_name_pl": "Altra (kapsuďż˝ki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/89711,Altra-kapsulki"
+    },
+    "387": {
+        "drug_name_pl": "Alugastrin (tabletki do rozgryzania i ďż˝ucia)",
+        "ingredients_en": {
+            "0": "aluminum (sodium dihydroxy aluminum carbonate)"
+        },
+        "ingredients_pl": {
+            "0": "glin (węglan dihydroksyglinowo-sodowy)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/50226,Alugastrin-tabletki-do-rozgryzania-i-zucia"
+    },
+    "388": {
+        "drug_name_pl": "Alugastrin (zawiesina)",
+        "ingredients_en": {
+            "0": "aluminum (sodium dihydroxy aluminum carbonate)"
+        },
+        "ingredients_pl": {
+            "0": "glin (węglan dihydroksyglinowo-sodowy)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26556,Alugastrin-zawiesina"
+    },
+    "389": {
+        "drug_name_pl": "Alugastrin 3 Forte (tabletki)",
+        "ingredients_en": {
+            "0": "calcium (calcium carbonate)",
+            "1": "herbal extracts"
+        },
+        "ingredients_pl": {
+            "0": "wapń (węglan wapnia)",
+            "1": "wyciągi ziołowe"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/98933,Alugastrin-3-Forte-tabletki"
+    },
+    "39": {
+        "drug_name_pl": "ACARIZAX (liofilizat podjďż˝zykowy)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97129,ACARIZAX-liofilizat-podjezykowy"
+    },
+    "390": {
+        "drug_name_pl": "Alugastrin 3 Forte (zawiesina)",
+        "ingredients_en": {
+            "0": "calcium (calcium carbonate)",
+            "1": "herbal extracts"
+        },
+        "ingredients_pl": {
+            "0": "wapń (węglan wapnia)",
+            "1": "wyciągi ziołowe"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99566,Alugastrin-3-Forte-zawiesina"
+    },
+    "391": {
+        "drug_name_pl": "Alunbrig (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "brigatinib"
+        },
+        "ingredients_pl": {
+            "0": "brygatynib"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/99925,Alunbrig-tabletki-powlekane"
+    },
+    "392": {
+        "drug_name_pl": "Alustin (pďż˝yn)",
+        "ingredients_en": {
+            "0": "8-hydroxyquinoline (8-hydroxyquinoline sulfate)",
+            "1": "aluminum (aluminum chloride hexahydrate)"
+        },
+        "ingredients_pl": {
+            "0": "8-hydroksychinolina (siarczan 8-hydroksychinoliny)",
+            "1": "glin (sześciowodny chlorek glinu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/53029,Alustin-plyn"
+    },
+    "393": {
+        "drug_name_pl": "Alutard SQ Osa leczenie podstawowe (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55707,Alutard-SQ-Osa-leczenie-podstawowe-zawiesina-do-wstrzykiwan"
+    },
+    "394": {
+        "drug_name_pl": "Alutard SQ Osa leczenie podtrzymujďż˝ce (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55709,Alutard-SQ-Osa-leczenie-podtrzymujace-zawiesina-do-wstrzykiwan"
+    },
+    "395": {
+        "drug_name_pl": "Alutard SQ Pszczoďż˝a leczenie podstawowe (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55706,Alutard-SQ-Pszczola-leczenie-podstawowe-zawiesina-do-wstrzykiwan"
+    },
+    "396": {
+        "drug_name_pl": "Alutard SQ Pszczoďż˝a leczenie podtrzymujďż˝ce (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55708,Alutard-SQ-Pszczola-leczenie-podtrzymujace-zawiesina-do-wstrzykiwan"
+    },
+    "397": {
+        "drug_name_pl": "Alutard SQ Sierďż˝ďż˝ kota leczenie podtrzymujďż˝ce (zawiesina do wstrzykiwaďż˝)",
+        "ingredients_en": {
+            "0": "allergens for medicinal purposes"
+        },
+        "ingredients_pl": {
+            "0": "alergeny dla celów leczniczych"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/55743,Alutard-SQ-Siersc-kota-leczenie-podtrzymujace-zawiesina-do-wstrzykiwan"
+    },
+    "398": {
+        "drug_name_pl": "Alventa (kapsuďż˝ki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "venlafaxine"
+        },
+        "ingredients_pl": {
+            "0": "wenlafaksyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/87928,Alventa-kapsulki-o-przedluzonym-uwalnianiu"
+    },
+    "399": {
+        "drug_name_pl": "Alventa (kapsuďż˝ki o przedďż˝uďż˝onym uwalnianiu, twarde)",
+        "ingredients_en": {
+            "0": "venlafaxine"
+        },
+        "ingredients_pl": {
+            "0": "wenlafaksyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/96345,Alventa-kapsulki-o-przedluzonym-uwalnianiu.-twarde"
+    },
     "4": {
-        "drug_name_pl": "4Flex PureGel (\u017cel)",
+        "drug_name_pl": "4Flex PureGel (ďż˝el)",
         "ingredients_en": {
             "0": "naproxen"
         },
@@ -37,11 +3319,215 @@
         },
         "url": "https://www.mp.pl/pacjent/leki/lek/99116,4Flex-PureGel-zel"
     },
+    "40": {
+        "drug_name_pl": "Acatar Acti-Tabs (tabletki)",
+        "ingredients_en": {
+            "0": "pseudoephedrine",
+            "1": "triprolidine"
+        },
+        "ingredients_pl": {
+            "0": "pseudoefedryna",
+            "1": "triprolidyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/63615,Acatar-Acti-Tabs-tabletki"
+    },
+    "41": {
+        "drug_name_pl": "Acatar Allergy (aerozol do nosa, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "azelastine"
+        },
+        "ingredients_pl": {
+            "0": "azelastyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94515,Acatar-Allergy-aerozol-do-nosa.-roztwor"
+    },
+    "42": {
+        "drug_name_pl": "Acatar Care (aerozol do nosa, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "oxymetazoline"
+        },
+        "ingredients_pl": {
+            "0": "oksymetazolina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100215,Acatar-Care-aerozol-do-nosa.-roztwor"
+    },
+    "43": {
+        "drug_name_pl": "Acatar Care Kids (aerozol do nosa, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "oxymetazoline"
+        },
+        "ingredients_pl": {
+            "0": "oksymetazolina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/100216,Acatar-Care-Kids-aerozol-do-nosa.-roztwor"
+    },
+    "44": {
+        "drug_name_pl": "Acatar Control (aerozol do nosa, roztwďż˝r)",
+        "ingredients_en": {
+            "0": "oxymetazoline"
+        },
+        "ingredients_pl": {
+            "0": "oksymetazolina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52822,Acatar-Control-aerozol-do-nosa.-roztwor"
+    },
+    "45": {
+        "drug_name_pl": "Acatar Zatoki (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "ibuprofen",
+            "1": "pseudoephedrine"
+        },
+        "ingredients_pl": {
+            "0": "ibuprofen",
+            "1": "pseudoefedryna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/63903,Acatar-Zatoki-tabletki-powlekane"
+    },
+    "46": {
+        "drug_name_pl": "ACC (tabletki)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/65868,ACC-tabletki"
+    },
+    "47": {
+        "drug_name_pl": "ACC (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/65867,ACC-tabletki-musujace"
+    },
+    "48": {
+        "drug_name_pl": "ACC classic (roztwďż˝r doustny)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85391,ACC-classic-roztwor-doustny"
+    },
+    "49": {
+        "drug_name_pl": "ACC mini (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/65869,ACC-mini-tabletki-musujace"
+    },
     "5": {
         "drug_name_pl": "4Flex Silver (proszek)",
         "ingredients_en": {},
         "ingredients_pl": {},
         "url": "https://www.mp.pl/pacjent/leki/lek/92227,4Flex-Silver-proszek"
+    },
+    "50": {
+        "drug_name_pl": "ACC optima (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25896,ACC-optima-tabletki-musujace"
+    },
+    "51": {
+        "drug_name_pl": "ACC optima Active (proszek)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/92740,ACC-optima-Active-proszek"
+    },
+    "52": {
+        "drug_name_pl": "ACC optima Hot (proszek do sporzďż˝dzania roztworu doustnego)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/53567,ACC-optima-Hot-proszek-do-sporzadzania-roztworu-doustnego"
+    },
+    "53": {
+        "drug_name_pl": "Accofil (roztwďż˝r do wstrzykiwaďż˝ lub infuzji w ampuďż˝kostrzykawce)",
+        "ingredients_en": {
+            "0": "filgrastim"
+        },
+        "ingredients_pl": {
+            "0": "filgrastym"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/90142,Accofil-roztwor-do-wstrzykiwan-lub-infuzji-w-ampulkostrzykawce"
+    },
+    "54": {
+        "drug_name_pl": "Accordeon (tabletki o przedďż˝uďż˝onym uwalnianiu)",
+        "ingredients_en": {
+            "0": "oxycodone (oxycodone hydrochloride)"
+        },
+        "ingredients_pl": {
+            "0": "oksykodon (chlorowodorek oksykodonu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/88453,Accordeon-tabletki-o-przedluzonym-uwalnianiu"
+    },
+    "55": {
+        "drug_name_pl": "Accu-Chek Active (test paskowy)",
+        "ingredients_en": {
+            "0": "strip test"
+        },
+        "ingredients_pl": {
+            "0": "test paskowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81634,Accu-Chek-Active-test-paskowy"
+    },
+    "56": {
+        "drug_name_pl": "Accu-Chek Instant (test paskowy)",
+        "ingredients_en": {
+            "0": "strip test"
+        },
+        "ingredients_pl": {
+            "0": "test paskowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/94828,Accu-Chek-Instant-test-paskowy"
+    },
+    "57": {
+        "drug_name_pl": "Accu-Chek Performa (test paskowy)",
+        "ingredients_en": {
+            "0": "strip test"
+        },
+        "ingredients_pl": {
+            "0": "test paskowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81891,Accu-Chek-Performa-test-paskowy"
+    },
+    "58": {
+        "drug_name_pl": "Acebutolol Gedeon Richter (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "acebutolol"
+        },
+        "ingredients_pl": {
+            "0": "acebutolol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/54759,Acebutolol-Gedeon-Richter-tabletki-powlekane"
+    },
+    "59": {
+        "drug_name_pl": "Acenocumarol WZF (tabletki)",
+        "ingredients_en": {
+            "0": "acenocoumarol"
+        },
+        "ingredients_pl": {
+            "0": "acenokumarol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/57724,Acenocumarol-WZF-tabletki"
     },
     "6": {
         "drug_name_pl": "4Flex Sport (proszek)",
@@ -49,8 +3535,86 @@
         "ingredients_pl": {},
         "url": "https://www.mp.pl/pacjent/leki/lek/92225,4Flex-Sport-proszek"
     },
+    "60": {
+        "drug_name_pl": "Acenol (tabletki)",
+        "ingredients_en": {
+            "0": "paracetamol"
+        },
+        "ingredients_pl": {
+            "0": "paracetamol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25921,Acenol-tabletki"
+    },
+    "61": {
+        "drug_name_pl": "Acenol forte (tabletki)",
+        "ingredients_en": {
+            "0": "paracetamol"
+        },
+        "ingredients_pl": {
+            "0": "paracetamol"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25923,Acenol-forte-tabletki"
+    },
+    "62": {
+        "drug_name_pl": "Acerin (pďż˝yn)",
+        "ingredients_en": {
+            "0": "lactic acid",
+            "1": "salicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas mlekowy",
+            "1": "kwas salicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25925,Acerin-plyn"
+    },
+    "63": {
+        "drug_name_pl": "Acerola (tabletki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83953,Acerola-tabletki"
+    },
+    "64": {
+        "drug_name_pl": "Acerola C Brasilia (tabletki)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83954,Acerola-C-Brasilia-tabletki"
+    },
+    "65": {
+        "drug_name_pl": "Acerola do ssania (tabletki do ssania)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/83951,Acerola-do-ssania-tabletki-do-ssania"
+    },
+    "66": {
+        "drug_name_pl": "Acerola Gripovita (tabletki do ssania)",
+        "ingredients_en": {
+            "0": "ascorbic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas askorbinowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91095,Acerola-Gripovita-tabletki-do-ssania"
+    },
+    "67": {
+        "drug_name_pl": "Acerola Plus (tabletki do ssania)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/25927,Acerola-Plus-tabletki-do-ssania"
+    },
+    "68": {
+        "drug_name_pl": "Acertin (proszek do sporzďż˝dzania roztworu doustnego)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/95288,Acertin-proszek-do-sporzadzania-roztworu-doustnego"
+    },
+    "69": {
+        "drug_name_pl": "A-cerumen (pďż˝yn do usuwania woskowiny)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/99567,A-cerumen-plyn-do-usuwania-woskowiny"
+    },
     "7": {
-        "drug_name_pl": "5-Fluorouracil-Ebewe (roztw\u00f3r do wstrzykiwa\u0144 i infuzji)",
+        "drug_name_pl": "5-Fluorouracil-Ebewe (roztwďż˝r do wstrzykiwaďż˝ i infuzji)",
         "ingredients_en": {
             "0": "fluorouracil"
         },
@@ -58,6 +3622,104 @@
             "0": "fluorouracyl"
         },
         "url": "https://www.mp.pl/pacjent/leki/lek/52481,5-Fluorouracil-Ebewe-roztwor-do-wstrzykiwan-i-infuzji"
+    },
+    "70": {
+        "drug_name_pl": "A-cerumen (spray do higieny uszu)",
+        "ingredients_en": {},
+        "ingredients_pl": {},
+        "url": "https://www.mp.pl/pacjent/leki/lek/88869,A-cerumen-spray-do-higieny-uszu"
+    },
+    "71": {
+        "drug_name_pl": "Acesan (tabletki)",
+        "ingredients_en": {
+            "0": "acetylsalicylic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas acetylosalicylowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25928,Acesan-tabletki"
+    },
+    "72": {
+        "drug_name_pl": "Acetylcysteine Sandoz (roztwďż˝r do infuzji)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/25879,Acetylcysteine-Sandoz-roztwor-do-infuzji"
+    },
+    "73": {
+        "drug_name_pl": "Acetylcysteinum Flegamina (tabletki musujďż˝ce)",
+        "ingredients_en": {
+            "0": "acetylcysteine"
+        },
+        "ingredients_pl": {
+            "0": "acetylocysteina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97395,Acetylcysteinum-Flegamina-tabletki-musujace"
+    },
+    "74": {
+        "drug_name_pl": "Aciclovir Aurovitas (tabletki)",
+        "ingredients_en": {
+            "0": "acyclovir"
+        },
+        "ingredients_pl": {
+            "0": "acyklowir"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97903,Aciclovir-Aurovitas-tabletki"
+    },
+    "75": {
+        "drug_name_pl": "Aciclovir Jelfa (proszek do sporzďż˝dzania roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "acyclovir"
+        },
+        "ingredients_pl": {
+            "0": "acyklowir"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/48802,Aciclovir-Jelfa-proszek-do-sporzadzania-roztworu-do-infuzji"
+    },
+    "76": {
+        "drug_name_pl": "Aciclovir Ziaja (krem)",
+        "ingredients_en": {
+            "0": "acyclovir"
+        },
+        "ingredients_pl": {
+            "0": "acyklowir"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91893,Aciclovir-Ziaja-krem"
+    },
+    "77": {
+        "drug_name_pl": "Acidolac Baby (proszek)",
+        "ingredients_en": {
+            "0": "bifidobacterium",
+            "1": "fructooligosaccharides"
+        },
+        "ingredients_pl": {
+            "0": "bifidobacterium",
+            "1": "fruktooligosacharydy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/66636,Acidolac-Baby-proszek"
+    },
+    "78": {
+        "drug_name_pl": "Acidolac Baby krople (zawiesina doustna)",
+        "ingredients_en": {
+            "0": "lactobacillus"
+        },
+        "ingredients_pl": {
+            "0": "lactobacillus"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/86414,Acidolac-Baby-krople-zawiesina-doustna"
+    },
+    "79": {
+        "drug_name_pl": "Acidolac caps (kapsuďż˝ki)",
+        "ingredients_en": {
+            "0": "bifidobacterium"
+        },
+        "ingredients_pl": {
+            "0": "bifidobacterium"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/97814,Acidolac-caps-kapsulki"
     },
     "8": {
         "drug_name_pl": "Abacavir + Lamivudine Accord (Iviverz) (tabletki powlekane)",
@@ -71,8 +3733,122 @@
         },
         "url": "https://www.mp.pl/pacjent/leki/lek/98350,Abacavir-+-Lamivudine-Accord-Iviverz-tabletki-powlekane"
     },
+    "80": {
+        "drug_name_pl": "Acidolac Dentifix Kids (tabletki do ssania)",
+        "ingredients_en": {
+            "0": "lactobacillus",
+            "1": "vitamins"
+        },
+        "ingredients_pl": {
+            "0": "lactobacillus",
+            "1": "witaminy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/93951,Acidolac-Dentifix-Kids-tabletki-do-ssania"
+    },
+    "81": {
+        "drug_name_pl": "Acidolac Junior (tabletki)",
+        "ingredients_en": {
+            "0": "bifidobacterium",
+            "1": "fructooligosaccharides"
+        },
+        "ingredients_pl": {
+            "0": "bifidobacterium",
+            "1": "fruktooligosacharydy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84180,Acidolac-Junior-tabletki"
+    },
+    "82": {
+        "drug_name_pl": "Acidolac LGG (liofilizat)",
+        "ingredients_en": {
+            "0": "fructooligosaccharides",
+            "1": "lactobacillus"
+        },
+        "ingredients_pl": {
+            "0": "fruktooligosacharydy",
+            "1": "lactobacillus"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/85554,Acidolac-LGG-liofilizat"
+    },
+    "83": {
+        "drug_name_pl": "Acidolit bezsmakowy dla niemowlďż˝t (proszek do sporzďż˝dzania roztworu doustnego)",
+        "ingredients_en": {
+            "0": "glucose",
+            "1": "potassium (potassium chloride)"
+        },
+        "ingredients_pl": {
+            "0": "glukoza",
+            "1": "potas (chlorek potasu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81717,Acidolit-bezsmakowy-dla-niemowlat-proszek-do-sporzadzania-roztworu-doustnego"
+    },
+    "84": {
+        "drug_name_pl": "Acidolit smak jabďż˝kowy (proszek do sporzďż˝dzania roztworu doustnego)",
+        "ingredients_en": {
+            "0": "glucose",
+            "1": "potassium (potassium chloride)"
+        },
+        "ingredients_pl": {
+            "0": "glukoza",
+            "1": "potas (chlorek potasu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81715,Acidolit-smak-jablkowy-proszek-do-sporzadzania-roztworu-doustnego"
+    },
+    "85": {
+        "drug_name_pl": "Acidolit smak malinowy (proszek do sporzďż˝dzania roztworu doustnego)",
+        "ingredients_en": {
+            "0": "glucose",
+            "1": "potassium (potassium chloride)"
+        },
+        "ingredients_pl": {
+            "0": "glukoza",
+            "1": "potas (chlorek potasu)"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81716,Acidolit-smak-malinowy-proszek-do-sporzadzania-roztworu-doustnego"
+    },
+    "86": {
+        "drug_name_pl": "Acidum Folicum Hasco (tabletki)",
+        "ingredients_en": {
+            "0": "Folic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas foliowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/57514,Acidum-Folicum-Hasco-tabletki"
+    },
+    "87": {
+        "drug_name_pl": "Acidum Folicum Richter (tabletki)",
+        "ingredients_en": {
+            "0": "Folic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas foliowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/26013,Acidum-Folicum-Richter-tabletki"
+    },
+    "88": {
+        "drug_name_pl": "Acifungin Forte pďż˝yn na skďż˝rďż˝, waďż˝y okoďż˝opaznokciowe i paznokcie (pďż˝yn)",
+        "ingredients_en": {
+            "0": "acetic acid",
+            "1": "boric acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas octowy",
+            "1": "kwas borowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/91365,Acifungin-Forte-plyn-na-skore.-waly-okolopaznokciowe-i-paznokcie-plyn"
+    },
+    "89": {
+        "drug_name_pl": "Aciprex (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "escitalopram"
+        },
+        "ingredients_pl": {
+            "0": "escitalopram"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/70859,Aciprex-tabletki-powlekane"
+    },
     "9": {
-        "drug_name_pl": "Abasaglar (roztw\u00f3r do wstrzykiwa\u0144)",
+        "drug_name_pl": "Abasaglar (roztwďż˝r do wstrzykiwaďż˝)",
         "ingredients_en": {
             "0": "insulin glargine"
         },
@@ -80,5 +3856,107 @@
             "0": "insulina glargine"
         },
         "url": "https://www.mp.pl/pacjent/leki/lek/88443,Abasaglar-roztwor-do-wstrzykiwan"
+    },
+    "90": {
+        "drug_name_pl": "Acitren (kapsuďż˝ki twarde)",
+        "ingredients_en": {
+            "0": "acitretin"
+        },
+        "ingredients_pl": {
+            "0": "acytretyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/81120,Acitren-kapsulki-twarde"
+    },
+    "91": {
+        "drug_name_pl": "Acix 500 (proszek do sporzďż˝dzania roztworu do infuzji)",
+        "ingredients_en": {
+            "0": "acyclovir"
+        },
+        "ingredients_pl": {
+            "0": "acyklowir"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/52831,Acix-500-proszek-do-sporzadzania-roztworu-do-infuzji"
+    },
+    "92": {
+        "drug_name_pl": "Aclasta (roztwďż˝r do infuzji)",
+        "ingredients_en": {
+            "0": "zoledronic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas zoledronowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/64265,Aclasta-roztwor-do-infuzji"
+    },
+    "93": {
+        "drug_name_pl": "Aclexa (kapsuďż˝ki twarde)",
+        "ingredients_en": {
+            "0": "celecoxib"
+        },
+        "ingredients_pl": {
+            "0": "celekoksyb"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/87208,Aclexa-kapsulki-twarde"
+    },
+    "94": {
+        "drug_name_pl": "Aclotin (tabletki powlekane)",
+        "ingredients_en": {
+            "0": "ticlopidine"
+        },
+        "ingredients_pl": {
+            "0": "tiklopidyna"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/60208,Aclotin-tabletki-powlekane"
+    },
+    "95": {
+        "drug_name_pl": "Acmed (krem)",
+        "ingredients_en": {
+            "0": "azelaic acid"
+        },
+        "ingredients_pl": {
+            "0": "kwas azelainowy"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/103764,Acmed-krem"
+    },
+    "96": {
+        "drug_name_pl": "Acnatac (ďż˝el)",
+        "ingredients_en": {
+            "0": "clindamycin",
+            "1": "tretinoin"
+        },
+        "ingredients_pl": {
+            "0": "klindamycyna",
+            "1": "tretynoina"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84297,Acnatac-zel"
+    },
+    "97": {
+        "drug_name_pl": "ACNE-DERM krem przeciwtrďż˝dzikowy i wybielajďż˝cy (krem)",
+        "ingredients_en": {
+            "0": "cosmetic preparation"
+        },
+        "ingredients_pl": {
+            "0": "preparat kosmetyczny"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/95858,ACNE-DERM-krem-przeciwtradzikowy-i-wybielajacy-krem"
+    },
+    "98": {
+        "drug_name_pl": "Acnelec (krem)",
+        "ingredients_en": {
+            "0": "adapalene"
+        },
+        "ingredients_pl": {
+            "0": "adapalen"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84461,Acnelec-krem"
+    },
+    "99": {
+        "drug_name_pl": "Acnelec (ďż˝el)",
+        "ingredients_en": {
+            "0": "adapalene"
+        },
+        "ingredients_pl": {
+            "0": "adapalen"
+        },
+        "url": "https://www.mp.pl/pacjent/leki/lek/84460,Acnelec-zel"
     }
 }

@@ -7,16 +7,22 @@ import concurrent.futures
 import os
 
 # global variabls
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "D:/_INZYNIERKA_STUFF/testy/sellenium/inzynierka-387317-b6c75eaf8bb3.json"
+os.environ[
+    "GOOGLE_APPLICATION_CREDENTIALS"
+] = "D:/_INZYNIERKA_STUFF/testy/sellenium/inzynierka-387317-b6c75eaf8bb3.json"
 complete_dict = {}
 
+
 def create_new_browser():
+    """Creates new browser to be used in thread."""
     options = Options()
     options.add_argument("-headless")
     driver = webdriver.Firefox(options=options)
     return driver
 
+
 def translate_text(text):
+    """Translate the given text from Polish to English using Google Cloud Translate."""
     from google.cloud import translate_v2 as translate
 
     translate_client = translate.Client()
@@ -28,7 +34,10 @@ def translate_text(text):
     )
     return result["translatedText"]
 
+
 def get_ingredients(part_dict):
+    """Fetch ingredients for a given set of drugs using multi-threading."""
+
     # create new headless browser
     driver = create_new_browser()
     browser_pid = driver.service.process.pid
@@ -42,7 +51,12 @@ def get_ingredients(part_dict):
         driver.get(part_dict[key]["url"])
 
         # find igredients
-        drug_used = driver.find_element(By.CSS_SELECTOR, "a.color")
+
+        try:
+            drug_used = driver.find_element(By.CSS_SELECTOR, "a.color")
+        except:
+            print("No ingredients found for: ", part_dict[key]["drug_name_pl"])
+            continue
 
         drug_name = drug_used.text
 
@@ -54,7 +68,7 @@ def get_ingredients(part_dict):
             part_dict[key]["ingredients_pl"]["0"] = parts[0]
             part_dict[key]["ingredients_pl"]["1"] = parts[1]
         elif drug_name in ["preparat złożony", "preparat ziołowy"]:
-            print("passs")
+            continue
         else:
             part_dict[key]["ingredients_en"]["0"] = translate_text(drug_name)
             part_dict[key]["ingredients_pl"]["0"] = drug_name
@@ -67,12 +81,17 @@ def get_ingredients(part_dict):
     print("## End of browser with pid {}. Quitting..".format(browser_pid))
     driver.quit()
 
+
 def chunks(data, size=100):
+    """Yield successive n-sized chunks from l."""
     it = iter(data)
     for i in range(0, len(data), size):
         yield {k: data[k] for k in islice(it, size)}
 
+
 def get_drugs_list(letter_array):
+    """Get list of drugs from mp.pl."""
+
     # create browser
     driver = create_new_browser()
 
@@ -94,10 +113,12 @@ def get_drugs_list(letter_array):
             complete_dict.update(result)
             index += 1
         with open("list.json", "w") as outfile:
-            outfile.write(json.dumps(complete_dict, indent=2))
+            outfile.write(json.dumps(complete_dict, indent=4, ensure_ascii=False))
     driver.quit()
 
+
 def make_json_list():
+    """Generate or update the list.json file."""
     letter_array = [
         2,
         4,
@@ -136,8 +157,10 @@ def make_json_list():
     get_drugs_list(letter_array)
 
 
-
 def main():
+    """Main function."""
+
+    # generate list of drugs - uncomment if you want to generate new list
     # make_json_list()
 
     # load already prepared json list to complete_dict
@@ -145,23 +168,21 @@ def main():
     with open(file_path, "r") as file:
         data = json.load(file)
 
-    complete_dict = data
-
     # create array of dicts that are equally split
     dicts_array = []
-    for item in chunks(complete_dict, 1000):
+    for item in chunks(data, 400):
         dicts_array.append(item)
 
-    # delete complete_dict for memory saving
-    del complete_dict
+    # delete data for memory saving
+    del data
 
     # paraller execute get_ingredients for dictonaries
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = [executor.submit(get_ingredients, dictonary) for dictonary in dicts_array]
+        futures = [
+            executor.submit(get_ingredients, dictonary) for dictonary in dicts_array
+        ]
         del dicts_array
         concurrent.futures.wait(futures)
-
-    print("##### end of wait")
 
     # read lists prepared from browsers
     lists_dir = "tmp/lists"
@@ -173,10 +194,11 @@ def main():
             os.remove(filename)
             complete_list.update(data)
 
-    # convert dictonary to json 
-    json_list = json.dumps(complete_list, indent=4, sort_keys=True)
+    # convert dictonary to json
     with open("json_data.json", "w", encoding="utf-8") as json_save:
-        json_save.write(json_list)
+        json.dump(
+            complete_list, json_save, ensure_ascii=False, indent=4, sort_keys=True
+        )
     print("Saved json to file. Quitting.")
 
 
